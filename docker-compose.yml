@@ -1,0 +1,32 @@
+version: "3"
+services:
+  kong-dashboard:
+    image: "pgbi/kong-dashboard:v2"
+    ports:
+      - ":8080"
+    command: $KONG_DASH_BOARD_PASS
+    labels:
+      aliyun.routing.port_8080: $KONG_DASH_BOARD_URL
+      hostname: kong-dashboard
+    networks:
+      - cluster-global-net
+    deploy:
+      mode: replicated
+      replicas: 1
+      resources:
+        limits:
+        memory: 100M
+        cpus: '10'
+      update_config:
+        parallelism: 1
+        delay: 1s
+      restart_policy:
+        condition: any
+        max_attempts: 3
+        delay: 2s
+      placement:
+        constraints:
+          - node.labels.category == infranstructure
+networks:
+  cluster-global-net:
+  external: true
