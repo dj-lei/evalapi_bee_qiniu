@@ -1,0 +1,132 @@
+[
+{
+    "model": "deal_records.cardealhistorystatatics",
+    "pk": 973563,
+    "fields": {
+        "model_slug": "qirui-qq3",
+        "city": "\u6210\u90fd",
+        "date": "2016-10-01",
+        "count": 1072
+    }
+},
+{
+    "model": "deal_records.cardealhistorystatatics",
+    "pk": 973564,
+    "fields": {
+        "model_slug": "qirui-qq3",
+        "city": "\u6210\u90fd",
+        "date": "2016-11-01",
+        "count": 644
+    }
+},
+{
+    "model": "deal_records.cardealhistorystatatics",
+    "pk": 973562,
+    "fields": {
+        "model_slug": "qirui-qq3",
+        "city": "\u6210\u90fd",
+        "date": "2016-09-01",
+        "count": 318
+    }
+},
+{
+    "model": "deal_records.cardealhistorystatatics",
+    "pk": 973568,
+    "fields": {
+        "model_slug": "qirui-qq3",
+        "city": "\u6210\u90fd",
+        "date": "2017-03-01",
+        "count": 292
+    }
+},
+{
+    "model": "deal_records.cardealhistorystatatics",
+    "pk": 973565,
+    "fields": {
+        "model_slug": "qirui-qq3",
+        "city": "\u6210\u90fd",
+        "date": "2016-12-01",
+        "count": 194
+    }
+},
+{
+    "model": "deal_records.cardealhistorystatatics",
+    "pk": 973567,
+    "fields": {
+        "model_slug": "qirui-qq3",
+        "city": "\u6210\u90fd",
+        "date": "2017-02-01",
+        "count": 190
+    }
+},
+{
+    "model": "deal_records.cardealhistorystatatics",
+    "pk": 973570,
+    "fields": {
+        "model_slug": "qirui-qq3",
+        "city": "\u6210\u90fd",
+        "date": "2017-05-01",
+        "count": 134
+    }
+},
+{
+    "model": "deal_records.cardealhistorystatatics",
+    "pk": 973573,
+    "fields": {
+        "model_slug": "qirui-qq3",
+        "city": "\u6210\u90fd",
+        "date": "2017-08-01",
+        "count": 132
+    }
+},
+{
+    "model": "deal_records.cardealhistorystatatics",
+    "pk": 973571,
+    "fields": {
+        "model_slug": "qirui-qq3",
+        "city": "\u6210\u90fd",
+        "date": "2017-06-01",
+        "count": 125
+    }
+},
+{
+    "model": "deal_records.cardealhistorystatatics",
+    "pk": 973569,
+    "fields": {
+        "model_slug": "qirui-qq3",
+        "city": "\u6210\u90fd",
+        "date": "2017-04-01",
+        "count": 125
+    }
+},
+{
+    "model": "deal_records.cardealhistorystatatics",
+    "pk": 973566,
+    "fields": {
+        "model_slug": "qirui-qq3",
+        "city": "\u6210\u90fd",
+        "date": "2017-01-01",
+        "count": 125
+    }
+},
+{
+    "model": "deal_records.cardealhistorystatatics",
+    "pk": 973572,
+    "fields": {
+        "model_slug": "qirui-qq3",
+        "city": "\u6210\u90fd",
+        "date": "2017-07-01",
+        "count": 99
+    }
+},
+{
+    "model": "deal_records.cardealhistorystatatics",
+    "pk": 973574,
+    "fields": {
+        "model_slug": "qirui-qq3",
+        "city": "\u6210\u90fd",
+        "date": "2017-09-01",
+        "count": 47
+    }
+}
+]

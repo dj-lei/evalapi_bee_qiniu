@@ -1,0 +1,5 @@
+.tox/
+.coverage
+.idea/
+__pycache__/
+*.swp

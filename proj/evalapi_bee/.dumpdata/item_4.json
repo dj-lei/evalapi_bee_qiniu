@@ -1,0 +1,6564 @@
+[
+{
+    "model": "general.city",
+    "pk": 387,
+    "fields": {
+        "name": "\u743c\u6d77",
+        "slug": "qionghai",
+        "pinyin": "qionghai",
+        "quhao": "0898",
+        "url": "",
+        "parentid": 22,
+        "priority": 50,
+        "longitude": "110.46",
+        "latitude": "19.25",
+        "area": "\u534e\u5357",
+        "city_administration_number": 469002
+    }
+},
+{
+    "model": "general.city",
+    "pk": 385,
+    "fields": {
+        "name": "\u8944\u9633",
+        "slug": "xiangyang",
+        "pinyin": "xiangyang",
+        "quhao": "0710",
+        "url": "http://xiangyang.ganji.com/",
+        "parentid": 18,
+        "priority": 50,
+        "longitude": "112.20",
+        "latitude": "32.08",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 420600
+    }
+},
+{
+    "model": "general.city",
+    "pk": 384,
+    "fields": {
+        "name": "\u6d4e\u6e90",
+        "slug": "jiyuan",
+        "pinyin": "jiyuan",
+        "quhao": "0391",
+        "url": "http://jiyuan.ganji.com/",
+        "parentid": 17,
+        "priority": 50,
+        "longitude": "112.35",
+        "latitude": "35.04",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 410881
+    }
+},
+{
+    "model": "general.city",
+    "pk": 383,
+    "fields": {
+        "name": "\u4e94\u6307\u5c71",
+        "slug": "wuzhishan",
+        "pinyin": "wuzhishan",
+        "quhao": "0898",
+        "url": "http://wuzhishan.ganji.com/",
+        "parentid": 22,
+        "priority": 50,
+        "longitude": "109.50",
+        "latitude": "18.77",
+        "area": "\u534e\u5357",
+        "city_administration_number": 469001
+    }
+},
+{
+    "model": "general.city",
+    "pk": 382,
+    "fields": {
+        "name": "\u5e93\u5c14\u52d2",
+        "slug": "kuerle",
+        "pinyin": "kuerle",
+        "quhao": "0996",
+        "url": "http://kuerle.ganji.com/",
+        "parentid": 31,
+        "priority": 50,
+        "longitude": "86.07",
+        "latitude": "41.46",
+        "area": "\u897f\u5317",
+        "city_administration_number": 652801
+    }
+},
+{
+    "model": "general.city",
+    "pk": 381,
+    "fields": {
+        "name": "\u535a\u5c14\u5854\u62c9",
+        "slug": "boertala",
+        "pinyin": "boertala",
+        "quhao": "0909",
+        "url": "http://boertala.ganji.com/",
+        "parentid": 31,
+        "priority": 50,
+        "longitude": "82.07",
+        "latitude": "44.90",
+        "area": "\u897f\u5317",
+        "city_administration_number": 652700
+    }
+},
+{
+    "model": "general.city",
+    "pk": 380,
+    "fields": {
+        "name": "\u514b\u5b5c\u52d2\u82cf",
+        "slug": "kezilesu",
+        "pinyin": "kezilesu",
+        "quhao": "0908",
+        "url": "http://kezilesu.ganji.com/",
+        "parentid": 31,
+        "priority": 50,
+        "longitude": "76.00",
+        "latitude": "39.50",
+        "area": "\u897f\u5317",
+        "city_administration_number": 653000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 379,
+    "fields": {
+        "name": "\u963f\u52d2\u6cf0",
+        "slug": "aletai",
+        "pinyin": "aletai",
+        "quhao": "0906",
+        "url": "http://aletai.ganji.com/",
+        "parentid": 31,
+        "priority": 50,
+        "longitude": "88.12",
+        "latitude": "47.50",
+        "area": "\u897f\u5317",
+        "city_administration_number": 654300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 378,
+    "fields": {
+        "name": "\u548c\u7530",
+        "slug": "hetian",
+        "pinyin": "hetian",
+        "quhao": "0903",
+        "url": "http://hetian.ganji.com/",
+        "parentid": 31,
+        "priority": 50,
+        "longitude": "79.55",
+        "latitude": "37.09",
+        "area": "\u897f\u5317",
+        "city_administration_number": 653200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 377,
+    "fields": {
+        "name": "\u54c8\u5bc6",
+        "slug": "hami",
+        "pinyin": "hami",
+        "quhao": "0902",
+        "url": "http://hami.ganji.com/",
+        "parentid": 31,
+        "priority": 50,
+        "longitude": "93.28",
+        "latitude": "42.50",
+        "area": "\u897f\u5317",
+        "city_administration_number": 652200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 376,
+    "fields": {
+        "name": "\u5854\u57ce",
+        "slug": "tacheng",
+        "pinyin": "tacheng",
+        "quhao": "0901",
+        "url": "http://tacheng.ganji.com/",
+        "parentid": 31,
+        "priority": 50,
+        "longitude": "82.59",
+        "latitude": "46.46",
+        "area": "\u897f\u5317",
+        "city_administration_number": 654200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 375,
+    "fields": {
+        "name": "\u514b\u62c9\u739b\u4f9d",
+        "slug": "kelamayi",
+        "pinyin": "kelamayi",
+        "quhao": "0990",
+        "url": "http://kelamayi.ganji.com/",
+        "parentid": 31,
+        "priority": 50,
+        "longitude": "84.51",
+        "latitude": "45.36",
+        "area": "\u897f\u5317",
+        "city_administration_number": 650200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 374,
+    "fields": {
+        "name": "\u4f0a\u7281",
+        "slug": "yili",
+        "pinyin": "yili",
+        "quhao": "0999",
+        "url": "http://yili.ganji.com/",
+        "parentid": 31,
+        "priority": 50,
+        "longitude": "81.32",
+        "latitude": "43.92",
+        "area": "\u897f\u5317",
+        "city_administration_number": 654100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 373,
+    "fields": {
+        "name": "\u56fe\u6728\u8212\u514b",
+        "slug": "tumushuke",
+        "pinyin": "tumushuke",
+        "quhao": "0998",
+        "url": "http://tumushuke.ganji.com/",
+        "parentid": 31,
+        "priority": 50,
+        "longitude": "79.06",
+        "latitude": "39.86",
+        "area": "\u897f\u5317",
+        "city_administration_number": 659003
+    }
+},
+{
+    "model": "general.city",
+    "pk": 372,
+    "fields": {
+        "name": "\u5580\u4ec0",
+        "slug": "kashi",
+        "pinyin": "kashi",
+        "quhao": "0998",
+        "url": "http://kashi.ganji.com/",
+        "parentid": 31,
+        "priority": 50,
+        "longitude": "75.59",
+        "latitude": "39.30",
+        "area": "\u897f\u5317",
+        "city_administration_number": 653100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 371,
+    "fields": {
+        "name": "\u963f\u62c9\u5c14",
+        "slug": "alaer",
+        "pinyin": "alaer",
+        "quhao": "0997",
+        "url": "http://alaer.ganji.com/",
+        "parentid": 31,
+        "priority": 50,
+        "longitude": "81.28",
+        "latitude": "40.54",
+        "area": "\u897f\u5317",
+        "city_administration_number": 659002
+    }
+},
+{
+    "model": "general.city",
+    "pk": 370,
+    "fields": {
+        "name": "\u963f\u514b\u82cf",
+        "slug": "akesu",
+        "pinyin": "akesu",
+        "quhao": "0997",
+        "url": "http://akesu.ganji.com/",
+        "parentid": 31,
+        "priority": 50,
+        "longitude": "80.19",
+        "latitude": "41.09",
+        "area": "\u897f\u5317",
+        "city_administration_number": 652900
+    }
+},
+{
+    "model": "general.city",
+    "pk": 369,
+    "fields": {
+        "name": "\u5df4\u97f3\u90ed\u695e",
+        "slug": "bayinguoleng",
+        "pinyin": "bayinguole",
+        "quhao": "0996",
+        "url": "http://bayinguoleng.ganji.com/",
+        "parentid": 31,
+        "priority": 50,
+        "longitude": "86.15",
+        "latitude": "41.77",
+        "area": "\u897f\u5317",
+        "city_administration_number": 652800
+    }
+},
+{
+    "model": "general.city",
+    "pk": 368,
+    "fields": {
+        "name": "\u5410\u9c81\u756a",
+        "slug": "tulufan",
+        "pinyin": "tulufan",
+        "quhao": "0995",
+        "url": "http://tulufan.ganji.com/",
+        "parentid": 31,
+        "priority": 50,
+        "longitude": "89.11",
+        "latitude": "42.54",
+        "area": "\u897f\u5317",
+        "city_administration_number": 652100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 367,
+    "fields": {
+        "name": "\u4e94\u5bb6\u6e20",
+        "slug": "wujiaqu",
+        "pinyin": "wujiaqu",
+        "quhao": "0994",
+        "url": "http://wujiaqu.ganji.com/",
+        "parentid": 31,
+        "priority": 50,
+        "longitude": "87.52",
+        "latitude": "44.15",
+        "area": "\u897f\u5317",
+        "city_administration_number": 659004
+    }
+},
+{
+    "model": "general.city",
+    "pk": 366,
+    "fields": {
+        "name": "\u660c\u5409",
+        "slug": "changji",
+        "pinyin": "changji",
+        "quhao": "0994",
+        "url": "http://changji.ganji.com/",
+        "parentid": 31,
+        "priority": 50,
+        "longitude": "87.18",
+        "latitude": "44.02",
+        "area": "\u897f\u5317",
+        "city_administration_number": 652300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 365,
+    "fields": {
+        "name": "\u77f3\u6cb3\u5b50",
+        "slug": "shihezi",
+        "pinyin": "shihezi",
+        "quhao": "0993",
+        "url": "http://shihezi.ganji.com/",
+        "parentid": 31,
+        "priority": 50,
+        "longitude": "86.00",
+        "latitude": "44.18",
+        "area": "\u897f\u5317",
+        "city_administration_number": 659001
+    }
+},
+{
+    "model": "general.city",
+    "pk": 364,
+    "fields": {
+        "name": "\u4e4c\u9c81\u6728\u9f50",
+        "slug": "xj",
+        "pinyin": "wulumuqi",
+        "quhao": "0991",
+        "url": "http://xj.ganji.com/",
+        "parentid": 31,
+        "priority": 50,
+        "longitude": "87.36",
+        "latitude": "43.45",
+        "area": "\u897f\u5317",
+        "city_administration_number": 650100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 363,
+    "fields": {
+        "name": "\u6d77\u5317",
+        "slug": "haibei",
+        "pinyin": "haibei",
+        "quhao": "0970",
+        "url": "http://haibei.ganji.com/",
+        "parentid": 30,
+        "priority": 50,
+        "longitude": "100.99",
+        "latitude": "36.89",
+        "area": "\u897f\u5317",
+        "city_administration_number": 632200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 362,
+    "fields": {
+        "name": "\u6d77\u897f",
+        "slug": "haixi",
+        "pinyin": "haixi",
+        "quhao": "0979",
+        "url": "http://haixi.ganji.com/",
+        "parentid": 30,
+        "priority": 50,
+        "longitude": "97.35",
+        "latitude": "37.36",
+        "area": "\u897f\u5317",
+        "city_administration_number": 632800
+    }
+},
+{
+    "model": "general.city",
+    "pk": 361,
+    "fields": {
+        "name": "\u7389\u6811",
+        "slug": "yushu",
+        "pinyin": "yushu",
+        "quhao": "0976",
+        "url": "http://yushu.ganji.com/",
+        "parentid": 30,
+        "priority": 50,
+        "longitude": "97.00",
+        "latitude": "32.99",
+        "area": "\u897f\u5317",
+        "city_administration_number": 632700
+    }
+},
+{
+    "model": "general.city",
+    "pk": 360,
+    "fields": {
+        "name": "\u679c\u6d1b",
+        "slug": "guoluo",
+        "pinyin": "guoluo",
+        "quhao": "0975",
+        "url": "http://guoluo.ganji.com/",
+        "parentid": 30,
+        "priority": 50,
+        "longitude": "100.24",
+        "latitude": "34.47",
+        "area": "\u897f\u5317",
+        "city_administration_number": 632600
+    }
+},
+{
+    "model": "general.city",
+    "pk": 359,
+    "fields": {
+        "name": "\u6d77\u5357",
+        "slug": "hainan",
+        "pinyin": "hainan",
+        "quhao": "0974",
+        "url": "",
+        "parentid": 30,
+        "priority": 50,
+        "longitude": "100.62",
+        "latitude": "36.27",
+        "area": "\u897f\u5317",
+        "city_administration_number": 632500
+    }
+},
+{
+    "model": "general.city",
+    "pk": 358,
+    "fields": {
+        "name": "\u9ec4\u5357",
+        "slug": "huangnan",
+        "pinyin": "huangnan",
+        "quhao": "0973",
+        "url": "http://huangnan.ganji.com/",
+        "parentid": 30,
+        "priority": 50,
+        "longitude": "102.01",
+        "latitude": "35.50",
+        "area": "\u897f\u5317",
+        "city_administration_number": 632300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 357,
+    "fields": {
+        "name": "\u6d77\u4e1c",
+        "slug": "haidong",
+        "pinyin": "haidong",
+        "quhao": "0972",
+        "url": "http://haidong.ganji.com/",
+        "parentid": 30,
+        "priority": 50,
+        "longitude": "102.10",
+        "latitude": "36.50",
+        "area": "\u897f\u5317",
+        "city_administration_number": 630200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 356,
+    "fields": {
+        "name": "\u897f\u5b81",
+        "slug": "xn",
+        "pinyin": "xining",
+        "quhao": "0971",
+        "url": "http://xn.ganji.com/",
+        "parentid": 30,
+        "priority": 50,
+        "longitude": "101.48",
+        "latitude": "36.38",
+        "area": "\u897f\u5317",
+        "city_administration_number": 630100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 355,
+    "fields": {
+        "name": "\u4e2d\u536b",
+        "slug": "zhongwei",
+        "pinyin": "zhongwei",
+        "quhao": "0955",
+        "url": "http://zhongwei.ganji.com/",
+        "parentid": 29,
+        "priority": 50,
+        "longitude": "105.67",
+        "latitude": "37.47",
+        "area": "\u897f\u5317",
+        "city_administration_number": 640500
+    }
+},
+{
+    "model": "general.city",
+    "pk": 354,
+    "fields": {
+        "name": "\u56fa\u539f",
+        "slug": "guyuan",
+        "pinyin": "guyuan",
+        "quhao": "0954",
+        "url": "http://guyuan.ganji.com/",
+        "parentid": 29,
+        "priority": 50,
+        "longitude": "106.28",
+        "latitude": "36.00",
+        "area": "\u897f\u5317",
+        "city_administration_number": 640400
+    }
+},
+{
+    "model": "general.city",
+    "pk": 353,
+    "fields": {
+        "name": "\u5434\u5fe0",
+        "slug": "wuzhong",
+        "pinyin": "wuzhong",
+        "quhao": "0953",
+        "url": "http://wuzhong.ganji.com/",
+        "parentid": 29,
+        "priority": 50,
+        "longitude": "106.11",
+        "latitude": "37.59",
+        "area": "\u897f\u5317",
+        "city_administration_number": 640300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 352,
+    "fields": {
+        "name": "\u77f3\u5634\u5c71",
+        "slug": "shizuishan",
+        "pinyin": "shizuishan",
+        "quhao": "0952",
+        "url": "http://shizuishan.ganji.com/",
+        "parentid": 29,
+        "priority": 50,
+        "longitude": "106.22",
+        "latitude": "39.02",
+        "area": "\u897f\u5317",
+        "city_administration_number": 640200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 351,
+    "fields": {
+        "name": "\u94f6\u5ddd",
+        "slug": "yc",
+        "pinyin": "yinchuan",
+        "quhao": "0951",
+        "url": "http://yc.ganji.com/",
+        "parentid": 29,
+        "priority": 50,
+        "longitude": "106.16",
+        "latitude": "38.27",
+        "area": "\u897f\u5317",
+        "city_administration_number": 640100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 350,
+    "fields": {
+        "name": "\u767d\u94f6",
+        "slug": "baiyin",
+        "pinyin": "baiyin",
+        "quhao": "0943",
+        "url": "http://baiyin.ganji.com/",
+        "parentid": 28,
+        "priority": 50,
+        "longitude": "104.12",
+        "latitude": "36.33",
+        "area": "\u897f\u5317",
+        "city_administration_number": 620400
+    }
+},
+{
+    "model": "general.city",
+    "pk": 349,
+    "fields": {
+        "name": "\u7518\u5357",
+        "slug": "gannan",
+        "pinyin": "gannan",
+        "quhao": "0941",
+        "url": "http://gannan.ganji.com/",
+        "parentid": 28,
+        "priority": 50,
+        "longitude": "102.90",
+        "latitude": "34.98",
+        "area": "\u897f\u5317",
+        "city_administration_number": 623000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 348,
+    "fields": {
+        "name": "\u4e34\u590f",
+        "slug": "linxia",
+        "pinyin": "linxia",
+        "quhao": "0930",
+        "url": "http://linxia.ganji.com/",
+        "parentid": 28,
+        "priority": 50,
+        "longitude": "103.12",
+        "latitude": "35.37",
+        "area": "\u897f\u5317",
+        "city_administration_number": 622901
+    }
+},
+{
+    "model": "general.city",
+    "pk": 347,
+    "fields": {
+        "name": "\u9647\u5357",
+        "slug": "longnan",
+        "pinyin": "longnan",
+        "quhao": "0939",
+        "url": "http://longnan.ganji.com/",
+        "parentid": 28,
+        "priority": 50,
+        "longitude": "105.73",
+        "latitude": "33.74",
+        "area": "\u897f\u5317",
+        "city_administration_number": 621200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 346,
+    "fields": {
+        "name": "\u5929\u6c34",
+        "slug": "tianshui",
+        "pinyin": "tianshui",
+        "quhao": "0938",
+        "url": "http://tianshui.ganji.com/",
+        "parentid": 28,
+        "priority": 50,
+        "longitude": "105.42",
+        "latitude": "34.37",
+        "area": "\u897f\u5317",
+        "city_administration_number": 620500
+    }
+},
+{
+    "model": "general.city",
+    "pk": 345,
+    "fields": {
+        "name": "\u9152\u6cc9",
+        "slug": "jiuquan",
+        "pinyin": "jiuquan",
+        "quhao": "0937",
+        "url": "http://jiuquan.ganji.com/",
+        "parentid": 28,
+        "priority": 50,
+        "longitude": "98.31",
+        "latitude": "39.44",
+        "area": "\u897f\u5317",
+        "city_administration_number": 620900
+    }
+},
+{
+    "model": "general.city",
+    "pk": 344,
+    "fields": {
+        "name": "\u5609\u5cea\u5173",
+        "slug": "jiayuguan",
+        "pinyin": "jiayuguan",
+        "quhao": "0937",
+        "url": "http://jiayuguan.ganji.com/",
+        "parentid": 28,
+        "priority": 50,
+        "longitude": "98.14",
+        "latitude": "39.48",
+        "area": "\u897f\u5317",
+        "city_administration_number": 620200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 343,
+    "fields": {
+        "name": "\u5f20\u6396",
+        "slug": "zhangye",
+        "pinyin": "zhangye",
+        "quhao": "0936",
+        "url": "http://zhangye.ganji.com/",
+        "parentid": 28,
+        "priority": 50,
+        "longitude": "100.26",
+        "latitude": "38.56",
+        "area": "\u897f\u5317",
+        "city_administration_number": 620700
+    }
+},
+{
+    "model": "general.city",
+    "pk": 342,
+    "fields": {
+        "name": "\u6b66\u5a01",
+        "slug": "wuwei",
+        "pinyin": "wuwei",
+        "quhao": "0935",
+        "url": "http://wuwei.ganji.com/",
+        "parentid": 28,
+        "priority": 50,
+        "longitude": "102.39",
+        "latitude": "37.56",
+        "area": "\u897f\u5317",
+        "city_administration_number": 620600
+    }
+},
+{
+    "model": "general.city",
+    "pk": 341,
+    "fields": {
+        "name": "\u91d1\u660c",
+        "slug": "jinchang",
+        "pinyin": "jinchang",
+        "quhao": "0935",
+        "url": "http://jinchang.ganji.com/",
+        "parentid": 28,
+        "priority": 50,
+        "longitude": "102.10",
+        "latitude": "38.28",
+        "area": "\u897f\u5317",
+        "city_administration_number": 620300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 340,
+    "fields": {
+        "name": "\u5e86\u9633",
+        "slug": "qingyang",
+        "pinyin": "qingyang",
+        "quhao": "0934",
+        "url": "http://qingyang.ganji.com/",
+        "parentid": 28,
+        "priority": 50,
+        "longitude": "107.87",
+        "latitude": "36.00",
+        "area": "\u897f\u5317",
+        "city_administration_number": 621000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 339,
+    "fields": {
+        "name": "\u5e73\u51c9",
+        "slug": "pingliang",
+        "pinyin": "pingliang",
+        "quhao": "0933",
+        "url": "http://pingliang.ganji.com/",
+        "parentid": 28,
+        "priority": 50,
+        "longitude": "106.40",
+        "latitude": "35.32",
+        "area": "\u897f\u5317",
+        "city_administration_number": 620800
+    }
+},
+{
+    "model": "general.city",
+    "pk": 338,
+    "fields": {
+        "name": "\u5b9a\u897f",
+        "slug": "dingxi",
+        "pinyin": "dingxi",
+        "quhao": "0932",
+        "url": "http://dingxi.ganji.com/",
+        "parentid": 28,
+        "priority": 50,
+        "longitude": "104.62",
+        "latitude": "35.58",
+        "area": "\u897f\u5317",
+        "city_administration_number": 621100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 337,
+    "fields": {
+        "name": "\u5170\u5dde",
+        "slug": "lz",
+        "pinyin": "lanzhou",
+        "quhao": "0931",
+        "url": "http://lz.ganji.com/",
+        "parentid": 28,
+        "priority": 50,
+        "longitude": "103.51",
+        "latitude": "36.04",
+        "area": "\u897f\u5317",
+        "city_administration_number": 620100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 336,
+    "fields": {
+        "name": "\u94dc\u5ddd",
+        "slug": "tongchuan",
+        "pinyin": "tongchuan",
+        "quhao": "0919",
+        "url": "http://tongchuan.ganji.com/",
+        "parentid": 27,
+        "priority": 50,
+        "longitude": "109.07",
+        "latitude": "35.06",
+        "area": "\u897f\u5317",
+        "city_administration_number": 610200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 335,
+    "fields": {
+        "name": "\u5b9d\u9e21",
+        "slug": "baoji",
+        "pinyin": "baoji",
+        "quhao": "0917",
+        "url": "http://baoji.ganji.com/",
+        "parentid": 27,
+        "priority": 50,
+        "longitude": "107.09",
+        "latitude": "34.22",
+        "area": "\u897f\u5317",
+        "city_administration_number": 610300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 334,
+    "fields": {
+        "name": "\u6c49\u4e2d",
+        "slug": "hanzhong",
+        "pinyin": "hanzhong",
+        "quhao": "0916",
+        "url": "http://hanzhong.ganji.com/",
+        "parentid": 27,
+        "priority": 50,
+        "longitude": "107.01",
+        "latitude": "33.04",
+        "area": "\u897f\u5317",
+        "city_administration_number": 610700
+    }
+},
+{
+    "model": "general.city",
+    "pk": 333,
+    "fields": {
+        "name": "\u5b89\u5eb7",
+        "slug": "ankang",
+        "pinyin": "ankang",
+        "quhao": "0915",
+        "url": "http://ankang.ganji.com/",
+        "parentid": 27,
+        "priority": 50,
+        "longitude": "109.01",
+        "latitude": "32.41",
+        "area": "\u897f\u5317",
+        "city_administration_number": 610900
+    }
+},
+{
+    "model": "general.city",
+    "pk": 332,
+    "fields": {
+        "name": "\u5546\u6d1b",
+        "slug": "shangluo",
+        "pinyin": "shangluo",
+        "quhao": "0914",
+        "url": "http://shangluo.ganji.com/",
+        "parentid": 27,
+        "priority": 50,
+        "longitude": "109.93",
+        "latitude": "33.87",
+        "area": "\u897f\u5317",
+        "city_administration_number": 611000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 331,
+    "fields": {
+        "name": "\u6e2d\u5357",
+        "slug": "weinan",
+        "pinyin": "weinan",
+        "quhao": "0913",
+        "url": "http://weinan.ganji.com/",
+        "parentid": 27,
+        "priority": 50,
+        "longitude": "109.30",
+        "latitude": "34.30",
+        "area": "\u897f\u5317",
+        "city_administration_number": 610500
+    }
+},
+{
+    "model": "general.city",
+    "pk": 330,
+    "fields": {
+        "name": "\u6986\u6797",
+        "slug": "sxyulin",
+        "pinyin": "yulin",
+        "quhao": "0912",
+        "url": "http://sxyulin.ganji.com/",
+        "parentid": 27,
+        "priority": 50,
+        "longitude": "109.47",
+        "latitude": "38.18",
+        "area": "\u897f\u5317",
+        "city_administration_number": 610800
+    }
+},
+{
+    "model": "general.city",
+    "pk": 329,
+    "fields": {
+        "name": "\u5ef6\u5b89",
+        "slug": "yanan",
+        "pinyin": "yanan",
+        "quhao": "0911",
+        "url": "http://yanan.ganji.com/",
+        "parentid": 27,
+        "priority": 50,
+        "longitude": "109.28",
+        "latitude": "36.35",
+        "area": "\u897f\u5317",
+        "city_administration_number": 610600
+    }
+},
+{
+    "model": "general.city",
+    "pk": 328,
+    "fields": {
+        "name": "\u54b8\u9633",
+        "slug": "xianyang",
+        "pinyin": "xianyang",
+        "quhao": "029",
+        "url": "http://xianyang.ganji.com/",
+        "parentid": 27,
+        "priority": 50,
+        "longitude": "108.43",
+        "latitude": "34.20",
+        "area": "\u897f\u5317",
+        "city_administration_number": 610400
+    }
+},
+{
+    "model": "general.city",
+    "pk": 327,
+    "fields": {
+        "name": "\u897f\u5b89",
+        "slug": "xa",
+        "pinyin": "xian",
+        "quhao": "029",
+        "url": "http://xa.ganji.com/",
+        "parentid": 27,
+        "priority": 100,
+        "longitude": "108.57",
+        "latitude": "34.17",
+        "area": "\u897f\u5317",
+        "city_administration_number": 610100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 326,
+    "fields": {
+        "name": "\u963f\u91cc",
+        "slug": "ali",
+        "pinyin": "ali",
+        "quhao": "0897",
+        "url": "http://ali.ganji.com/",
+        "parentid": 26,
+        "priority": 50,
+        "longitude": "80.10",
+        "latitude": "32.50",
+        "area": "\u897f\u5357",
+        "city_administration_number": 542500
+    }
+},
+{
+    "model": "general.city",
+    "pk": 325,
+    "fields": {
+        "name": "\u90a3\u66f2",
+        "slug": "naqu",
+        "pinyin": "naqu",
+        "quhao": "0896",
+        "url": "http://naqu.ganji.com/",
+        "parentid": 26,
+        "priority": 50,
+        "longitude": "92.06",
+        "latitude": "31.47",
+        "area": "\u897f\u5357",
+        "city_administration_number": 542400
+    }
+},
+{
+    "model": "general.city",
+    "pk": 324,
+    "fields": {
+        "name": "\u660c\u90fd",
+        "slug": "changdu",
+        "pinyin": "changdu",
+        "quhao": "0895",
+        "url": "http://changdu.ganji.com/",
+        "parentid": 26,
+        "priority": 50,
+        "longitude": "97.19",
+        "latitude": "31.13",
+        "area": "\u897f\u5357",
+        "city_administration_number": 542100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 323,
+    "fields": {
+        "name": "\u6797\u829d",
+        "slug": "linzhi",
+        "pinyin": "linzhi",
+        "quhao": "0894",
+        "url": "http://linzhi.ganji.com/",
+        "parentid": 26,
+        "priority": 50,
+        "longitude": "94.48",
+        "latitude": "29.56",
+        "area": "\u897f\u5357",
+        "city_administration_number": 542600
+    }
+},
+{
+    "model": "general.city",
+    "pk": 322,
+    "fields": {
+        "name": "\u5c71\u5357",
+        "slug": "shannan",
+        "pinyin": "shannan",
+        "quhao": "0893",
+        "url": "http://shannan.ganji.com/",
+        "parentid": 26,
+        "priority": 50,
+        "longitude": "91.76",
+        "latitude": "29.23",
+        "area": "\u897f\u5357",
+        "city_administration_number": 542200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 321,
+    "fields": {
+        "name": "\u65e5\u5580\u5219",
+        "slug": "rikaze",
+        "pinyin": "rikaze",
+        "quhao": "0892",
+        "url": "http://rikaze.ganji.com/",
+        "parentid": 26,
+        "priority": 50,
+        "longitude": "88.51",
+        "latitude": "29.16",
+        "area": "\u897f\u5357",
+        "city_administration_number": 542300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 320,
+    "fields": {
+        "name": "\u62c9\u8428",
+        "slug": "xz",
+        "pinyin": "lasa",
+        "quhao": "0891",
+        "url": "http://xz.ganji.com/",
+        "parentid": 26,
+        "priority": 50,
+        "longitude": "91.08",
+        "latitude": "29.39",
+        "area": "\u897f\u5357",
+        "city_administration_number": 540100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 319,
+    "fields": {
+        "name": "\u4e3d\u6c5f",
+        "slug": "lijiang",
+        "pinyin": "lijiang",
+        "quhao": "0888",
+        "url": "http://lijiang.ganji.com/",
+        "parentid": 25,
+        "priority": 50,
+        "longitude": "100.23",
+        "latitude": "26.87",
+        "area": "\u897f\u5357",
+        "city_administration_number": 530700
+    }
+},
+{
+    "model": "general.city",
+    "pk": 318,
+    "fields": {
+        "name": "\u8fea\u5e86",
+        "slug": "diqing",
+        "pinyin": "diqing",
+        "quhao": "0887",
+        "url": "http://diqing.ganji.com/",
+        "parentid": 25,
+        "priority": 50,
+        "longitude": "99.70",
+        "latitude": "27.86",
+        "area": "\u897f\u5357",
+        "city_administration_number": 533400
+    }
+},
+{
+    "model": "general.city",
+    "pk": 317,
+    "fields": {
+        "name": "\u6012\u6c5f",
+        "slug": "nujiang",
+        "pinyin": "nujiang",
+        "quhao": "0886",
+        "url": "http://nujiang.ganji.com/",
+        "parentid": 25,
+        "priority": 50,
+        "longitude": "98.85",
+        "latitude": "25.85",
+        "area": "\u897f\u5357",
+        "city_administration_number": 533300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 316,
+    "fields": {
+        "name": "\u4e34\u6ca7",
+        "slug": "lincang",
+        "pinyin": "lincang",
+        "quhao": "0883",
+        "url": "http://lincang.ganji.com/",
+        "parentid": 25,
+        "priority": 50,
+        "longitude": "100.08",
+        "latitude": "23.88",
+        "area": "\u897f\u5357",
+        "city_administration_number": 530900
+    }
+},
+{
+    "model": "general.city",
+    "pk": 315,
+    "fields": {
+        "name": "\u5fb7\u5b8f",
+        "slug": "dehong",
+        "pinyin": "dehong",
+        "quhao": "0692",
+        "url": "http://dehong.ganji.com/",
+        "parentid": 25,
+        "priority": 50,
+        "longitude": "98.58",
+        "latitude": "24.43",
+        "area": "\u897f\u5357",
+        "city_administration_number": 533100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 314,
+    "fields": {
+        "name": "\u897f\u53cc\u7248\u7eb3",
+        "slug": "xishuangbanna",
+        "pinyin": "xishuangbanna",
+        "quhao": "0691",
+        "url": "http://xishuangbanna.ganji.com/",
+        "parentid": 25,
+        "priority": 50,
+        "longitude": "100.79",
+        "latitude": "21.99",
+        "area": "\u897f\u5357",
+        "city_administration_number": 532800
+    }
+},
+{
+    "model": "general.city",
+    "pk": 313,
+    "fields": {
+        "name": "\u662d\u901a",
+        "slug": "zhaotong",
+        "pinyin": "zhaotong",
+        "quhao": "0870",
+        "url": "http://zhaotong.ganji.com/",
+        "parentid": 25,
+        "priority": 50,
+        "longitude": "103.42",
+        "latitude": "27.20",
+        "area": "\u897f\u5357",
+        "city_administration_number": 530600
+    }
+},
+{
+    "model": "general.city",
+    "pk": 312,
+    "fields": {
+        "name": "\u666e\u6d31",
+        "slug": "puer",
+        "pinyin": "puer",
+        "quhao": "0879",
+        "url": "http://puer.ganji.com/",
+        "parentid": 25,
+        "priority": 50,
+        "longitude": "100.60",
+        "latitude": "23.50",
+        "area": "\u897f\u5357",
+        "city_administration_number": 530800
+    }
+},
+{
+    "model": "general.city",
+    "pk": 311,
+    "fields": {
+        "name": "\u695a\u96c4",
+        "slug": "chuxiong",
+        "pinyin": "chuxiong",
+        "quhao": "0878",
+        "url": "http://chuxiong.ganji.com/",
+        "parentid": 25,
+        "priority": 50,
+        "longitude": "101.32",
+        "latitude": "25.01",
+        "area": "\u897f\u5357",
+        "city_administration_number": 532301
+    }
+},
+{
+    "model": "general.city",
+    "pk": 310,
+    "fields": {
+        "name": "\u7389\u6eaa",
+        "slug": "yuxi",
+        "pinyin": "yuxi",
+        "quhao": "0877",
+        "url": "http://yuxi.ganji.com/",
+        "parentid": 25,
+        "priority": 50,
+        "longitude": "102.32",
+        "latitude": "24.22",
+        "area": "\u897f\u5357",
+        "city_administration_number": 530400
+    }
+},
+{
+    "model": "general.city",
+    "pk": 309,
+    "fields": {
+        "name": "\u6587\u5c71",
+        "slug": "wenshan",
+        "pinyin": "wenshan",
+        "quhao": "0876",
+        "url": "http://wenshan.ganji.com/",
+        "parentid": 25,
+        "priority": 50,
+        "longitude": "104.23",
+        "latitude": "23.37",
+        "area": "\u897f\u5357",
+        "city_administration_number": 532600
+    }
+},
+{
+    "model": "general.city",
+    "pk": 308,
+    "fields": {
+        "name": "\u4fdd\u5c71",
+        "slug": "baoshan",
+        "pinyin": "baoshan",
+        "quhao": "0875",
+        "url": "http://baoshan.ganji.com/",
+        "parentid": 25,
+        "priority": 50,
+        "longitude": "99.10",
+        "latitude": "25.08",
+        "area": "\u897f\u5357",
+        "city_administration_number": 530500
+    }
+},
+{
+    "model": "general.city",
+    "pk": 307,
+    "fields": {
+        "name": "\u66f2\u9756",
+        "slug": "qujing",
+        "pinyin": "qujing",
+        "quhao": "0874",
+        "url": "http://qujing.ganji.com/",
+        "parentid": 25,
+        "priority": 50,
+        "longitude": "103.48",
+        "latitude": "25.30",
+        "area": "\u897f\u5357",
+        "city_administration_number": 530300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 306,
+    "fields": {
+        "name": "\u7ea2\u6cb3",
+        "slug": "honghe",
+        "pinyin": "honghe",
+        "quhao": "0873",
+        "url": "http://honghe.ganji.com/",
+        "parentid": 25,
+        "priority": 50,
+        "longitude": "103.07",
+        "latitude": "23.97",
+        "area": "\u897f\u5357",
+        "city_administration_number": 532500
+    }
+},
+{
+    "model": "general.city",
+    "pk": 305,
+    "fields": {
+        "name": "\u5927\u7406",
+        "slug": "dali",
+        "pinyin": "dalian",
+        "quhao": "0872",
+        "url": "http://dali.ganji.com/",
+        "parentid": 25,
+        "priority": 50,
+        "longitude": "100.13",
+        "latitude": "25.34",
+        "area": "\u897f\u5357",
+        "city_administration_number": 532900
+    }
+},
+{
+    "model": "general.city",
+    "pk": 304,
+    "fields": {
+        "name": "\u6606\u660e",
+        "slug": "km",
+        "pinyin": "kunming",
+        "quhao": "0871",
+        "url": "http://km.ganji.com/",
+        "parentid": 25,
+        "priority": 100,
+        "longitude": "102.42",
+        "latitude": "25.04",
+        "area": "\u897f\u5357",
+        "city_administration_number": 530100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 303,
+    "fields": {
+        "name": "\u9ed4\u897f\u5357",
+        "slug": "qianxinan",
+        "pinyin": "qianxinan",
+        "quhao": "0859",
+        "url": "http://qianxinan.ganji.com/",
+        "parentid": 24,
+        "priority": 50,
+        "longitude": "104.89",
+        "latitude": "25.09",
+        "area": "\u897f\u5357",
+        "city_administration_number": 522300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 302,
+    "fields": {
+        "name": "\u516d\u76d8\u6c34",
+        "slug": "liupanshui",
+        "pinyin": "liupanshui",
+        "quhao": "0858",
+        "url": "http://liupanshui.ganji.com/",
+        "parentid": 24,
+        "priority": 50,
+        "longitude": "104.50",
+        "latitude": "26.35",
+        "area": "\u897f\u5357",
+        "city_administration_number": 520200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 301,
+    "fields": {
+        "name": "\u6bd5\u8282",
+        "slug": "bijie",
+        "pinyin": "bijie",
+        "quhao": "0857",
+        "url": "http://bijie.ganji.com/",
+        "parentid": 24,
+        "priority": 50,
+        "longitude": "105.18",
+        "latitude": "27.18",
+        "area": "\u897f\u5357",
+        "city_administration_number": 520500
+    }
+},
+{
+    "model": "general.city",
+    "pk": 300,
+    "fields": {
+        "name": "\u94dc\u4ec1",
+        "slug": "tongren",
+        "pinyin": "tongren",
+        "quhao": "0856",
+        "url": "http://tongren.ganji.com/",
+        "parentid": 24,
+        "priority": 50,
+        "longitude": "109.12",
+        "latitude": "27.43",
+        "area": "\u897f\u5357",
+        "city_administration_number": 520600
+    }
+},
+{
+    "model": "general.city",
+    "pk": 299,
+    "fields": {
+        "name": "\u9ed4\u4e1c\u5357",
+        "slug": "qiandongnan",
+        "pinyin": "qiandongnan",
+        "quhao": "0855",
+        "url": "http://qiandongnan.ganji.com/",
+        "parentid": 24,
+        "priority": 50,
+        "longitude": "108.50",
+        "latitude": "26.64",
+        "area": "\u897f\u5357",
+        "city_administration_number": 522600
+    }
+},
+{
+    "model": "general.city",
+    "pk": 298,
+    "fields": {
+        "name": "\u9ed4\u5357",
+        "slug": "qiannan",
+        "pinyin": "qiannan",
+        "quhao": "0854",
+        "url": "http://qiannan.ganji.com/",
+        "parentid": 24,
+        "priority": 50,
+        "longitude": "106.90",
+        "latitude": "26.40",
+        "area": "\u897f\u5357",
+        "city_administration_number": 522700
+    }
+},
+{
+    "model": "general.city",
+    "pk": 297,
+    "fields": {
+        "name": "\u5b89\u987a",
+        "slug": "anshun",
+        "pinyin": "anshun",
+        "quhao": "0853",
+        "url": "http://anshun.ganji.com/",
+        "parentid": 24,
+        "priority": 50,
+        "longitude": "105.55",
+        "latitude": "26.14",
+        "area": "\u897f\u5357",
+        "city_administration_number": 520400
+    }
+},
+{
+    "model": "general.city",
+    "pk": 296,
+    "fields": {
+        "name": "\u9075\u4e49",
+        "slug": "zunyi",
+        "pinyin": "zunyi",
+        "quhao": "0852",
+        "url": "http://zunyi.ganji.com/",
+        "parentid": 24,
+        "priority": 50,
+        "longitude": "106.55",
+        "latitude": "27.42",
+        "area": "\u897f\u5357",
+        "city_administration_number": 520300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 295,
+    "fields": {
+        "name": "\u8d35\u9633",
+        "slug": "gy",
+        "pinyin": "guiyang",
+        "quhao": "0851",
+        "url": "http://gy.ganji.com/",
+        "parentid": 24,
+        "priority": 50,
+        "longitude": "106.42",
+        "latitude": "26.35",
+        "area": "\u897f\u5357",
+        "city_administration_number": 520100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 294,
+    "fields": {
+        "name": "\u5e7f\u5143",
+        "slug": "guangyuan",
+        "pinyin": "guangyuan",
+        "quhao": "0839",
+        "url": "http://guangyuan.ganji.com/",
+        "parentid": 23,
+        "priority": 50,
+        "longitude": "105.51",
+        "latitude": "32.28",
+        "area": "\u897f\u5357",
+        "city_administration_number": 510800
+    }
+},
+{
+    "model": "general.city",
+    "pk": 293,
+    "fields": {
+        "name": "\u5fb7\u9633",
+        "slug": "deyang",
+        "pinyin": "deyang",
+        "quhao": "0838",
+        "url": "http://deyang.ganji.com/",
+        "parentid": 23,
+        "priority": 50,
+        "longitude": "104.22",
+        "latitude": "31.09",
+        "area": "\u897f\u5357",
+        "city_administration_number": 510600
+    }
+},
+{
+    "model": "general.city",
+    "pk": 292,
+    "fields": {
+        "name": "\u963f\u575d",
+        "slug": "aba",
+        "pinyin": "aba",
+        "quhao": "0837",
+        "url": "http://aba.ganji.com/",
+        "parentid": 23,
+        "priority": 50,
+        "longitude": "102.22",
+        "latitude": "31.89",
+        "area": "\u897f\u5357",
+        "city_administration_number": 513200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 291,
+    "fields": {
+        "name": "\u7518\u5b5c",
+        "slug": "ganzi",
+        "pinyin": "ganzi",
+        "quhao": "0836",
+        "url": "http://ganzi.ganji.com/",
+        "parentid": 23,
+        "priority": 50,
+        "longitude": "101.96",
+        "latitude": "30.04",
+        "area": "\u897f\u5357",
+        "city_administration_number": 513300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 290,
+    "fields": {
+        "name": "\u96c5\u5b89",
+        "slug": "yaan",
+        "pinyin": "yaan",
+        "quhao": "0835",
+        "url": "http://yaan.ganji.com/",
+        "parentid": 23,
+        "priority": 50,
+        "longitude": "102.59",
+        "latitude": "29.59",
+        "area": "\u897f\u5357",
+        "city_administration_number": 511800
+    }
+},
+{
+    "model": "general.city",
+    "pk": 289,
+    "fields": {
+        "name": "\u51c9\u5c71",
+        "slug": "liangshan",
+        "pinyin": "liangshan",
+        "quhao": "0834",
+        "url": "http://liangshan.ganji.com/",
+        "parentid": 23,
+        "priority": 50,
+        "longitude": "102.80",
+        "latitude": "27.78",
+        "area": "\u897f\u5357",
+        "city_administration_number": 513400
+    }
+},
+{
+    "model": "general.city",
+    "pk": 288,
+    "fields": {
+        "name": "\u7709\u5c71",
+        "slug": "meishan",
+        "pinyin": "meishan",
+        "quhao": "028",
+        "url": "http://meishan.ganji.com/",
+        "parentid": 23,
+        "priority": 50,
+        "longitude": "103.82",
+        "latitude": "30.04",
+        "area": "\u897f\u5357",
+        "city_administration_number": 511400
+    }
+},
+{
+    "model": "general.city",
+    "pk": 287,
+    "fields": {
+        "name": "\u4e50\u5c71",
+        "slug": "leshan",
+        "pinyin": "leshan",
+        "quhao": "0833",
+        "url": "http://leshan.ganji.com/",
+        "parentid": 23,
+        "priority": 50,
+        "longitude": "103.44",
+        "latitude": "29.36",
+        "area": "\u897f\u5357",
+        "city_administration_number": 511100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 286,
+    "fields": {
+        "name": "\u8d44\u9633",
+        "slug": "ziyang",
+        "pinyin": "ziyang",
+        "quhao": "028",
+        "url": "http://ziyang.ganji.com/",
+        "parentid": 23,
+        "priority": 50,
+        "longitude": "104.38",
+        "latitude": "30.09",
+        "area": "\u897f\u5357",
+        "city_administration_number": 512000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 285,
+    "fields": {
+        "name": "\u5185\u6c5f",
+        "slug": "neijiang",
+        "pinyin": "neijiang",
+        "quhao": "0832",
+        "url": "http://neijiang.ganji.com/",
+        "parentid": 23,
+        "priority": 50,
+        "longitude": "105.02",
+        "latitude": "29.36",
+        "area": "\u897f\u5357",
+        "city_administration_number": 511000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 284,
+    "fields": {
+        "name": "\u5b9c\u5bbe",
+        "slug": "yibin",
+        "pinyin": "yibin",
+        "quhao": "0831",
+        "url": "http://yibin.ganji.com/",
+        "parentid": 23,
+        "priority": 50,
+        "longitude": "104.34",
+        "latitude": "28.47",
+        "area": "\u897f\u5357",
+        "city_administration_number": 511500
+    }
+},
+{
+    "model": "general.city",
+    "pk": 283,
+    "fields": {
+        "name": "\u6cf8\u5dde",
+        "slug": "luzhou",
+        "pinyin": "luzhou",
+        "quhao": "0830",
+        "url": "http://luzhou.ganji.com/",
+        "parentid": 23,
+        "priority": 50,
+        "longitude": "105.24",
+        "latitude": "28.54",
+        "area": "\u897f\u5357",
+        "city_administration_number": 510500
+    }
+},
+{
+    "model": "general.city",
+    "pk": 282,
+    "fields": {
+        "name": "\u5df4\u4e2d",
+        "slug": "bazhong",
+        "pinyin": "bazhong",
+        "quhao": "0827",
+        "url": "http://bazhong.ganji.com/",
+        "parentid": 23,
+        "priority": 50,
+        "longitude": "106.43",
+        "latitude": "31.51",
+        "area": "\u897f\u5357",
+        "city_administration_number": 511900
+    }
+},
+{
+    "model": "general.city",
+    "pk": 281,
+    "fields": {
+        "name": "\u5e7f\u5b89",
+        "slug": "guangan",
+        "pinyin": "guangan",
+        "quhao": "0826",
+        "url": "http://guangan.ganji.com/",
+        "parentid": 23,
+        "priority": 50,
+        "longitude": "106.63",
+        "latitude": "30.46",
+        "area": "\u897f\u5357",
+        "city_administration_number": 511600
+    }
+},
+{
+    "model": "general.city",
+    "pk": 280,
+    "fields": {
+        "name": "\u9042\u5b81",
+        "slug": "suining",
+        "pinyin": "suining",
+        "quhao": "0825",
+        "url": "http://suining.ganji.com/",
+        "parentid": 23,
+        "priority": 50,
+        "longitude": "105.33",
+        "latitude": "30.31",
+        "area": "\u897f\u5357",
+        "city_administration_number": 510900
+    }
+},
+{
+    "model": "general.city",
+    "pk": 279,
+    "fields": {
+        "name": "\u8fbe\u5dde",
+        "slug": "dazhou",
+        "pinyin": "dazhou",
+        "quhao": "0818",
+        "url": "http://dazhou.ganji.com/",
+        "parentid": 23,
+        "priority": 50,
+        "longitude": "107.48",
+        "latitude": "31.21",
+        "area": "\u897f\u5357",
+        "city_administration_number": 511700
+    }
+},
+{
+    "model": "general.city",
+    "pk": 278,
+    "fields": {
+        "name": "\u5357\u5145",
+        "slug": "nanchong",
+        "pinyin": "nanchong",
+        "quhao": "0817",
+        "url": "http://nanchong.ganji.com/",
+        "parentid": 23,
+        "priority": 50,
+        "longitude": "106.04",
+        "latitude": "30.49",
+        "area": "\u897f\u5357",
+        "city_administration_number": 511300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 277,
+    "fields": {
+        "name": "\u7ef5\u9633",
+        "slug": "mianyang",
+        "pinyin": "mianyang",
+        "quhao": "0816",
+        "url": "http://mianyang.ganji.com/",
+        "parentid": 23,
+        "priority": 50,
+        "longitude": "104.42",
+        "latitude": "31.30",
+        "area": "\u897f\u5357",
+        "city_administration_number": 510700
+    }
+},
+{
+    "model": "general.city",
+    "pk": 276,
+    "fields": {
+        "name": "\u81ea\u8d21",
+        "slug": "zigong",
+        "pinyin": "zigong",
+        "quhao": "0813",
+        "url": "http://zigong.ganji.com/",
+        "parentid": 23,
+        "priority": 50,
+        "longitude": "104.46",
+        "latitude": "29.23",
+        "area": "\u897f\u5357",
+        "city_administration_number": 510300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 275,
+    "fields": {
+        "name": "\u6500\u679d\u82b1",
+        "slug": "panzhihua",
+        "pinyin": "panzhihua",
+        "quhao": "0812",
+        "url": "http://panzhihua.ganji.com/",
+        "parentid": 23,
+        "priority": 50,
+        "longitude": "101.43",
+        "latitude": "26.34",
+        "area": "\u897f\u5357",
+        "city_administration_number": 510400
+    }
+},
+{
+    "model": "general.city",
+    "pk": 274,
+    "fields": {
+        "name": "\u6210\u90fd",
+        "slug": "cd",
+        "pinyin": "chengdu",
+        "quhao": "028",
+        "url": "http://cd.ganji.com/",
+        "parentid": 23,
+        "priority": 150,
+        "longitude": "104.04",
+        "latitude": "30.40",
+        "area": "\u897f\u5357",
+        "city_administration_number": 510100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 273,
+    "fields": {
+        "name": "\u4e09\u4e9a",
+        "slug": "sanya",
+        "pinyin": "sanya",
+        "quhao": "0898",
+        "url": "http://sanya.ganji.com/",
+        "parentid": 22,
+        "priority": 50,
+        "longitude": "109.31",
+        "latitude": "18.14",
+        "area": "\u534e\u5357",
+        "city_administration_number": 460200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 272,
+    "fields": {
+        "name": "\u6d77\u53e3",
+        "slug": "hn",
+        "pinyin": "hainan",
+        "quhao": "0898",
+        "url": "http://hn.ganji.com/",
+        "parentid": 22,
+        "priority": 50,
+        "longitude": "110.20",
+        "latitude": "20.02",
+        "area": "\u534e\u5357",
+        "city_administration_number": 460100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 271,
+    "fields": {
+        "name": "\u9632\u57ce\u6e2f",
+        "slug": "fangchenggang",
+        "pinyin": "fangchenggang",
+        "quhao": "0770",
+        "url": "http://fangchenggang.ganji.com/",
+        "parentid": 21,
+        "priority": 50,
+        "longitude": "108.20",
+        "latitude": "21.37",
+        "area": "\u534e\u5357",
+        "city_administration_number": 450600
+    }
+},
+{
+    "model": "general.city",
+    "pk": 270,
+    "fields": {
+        "name": "\u5317\u6d77",
+        "slug": "beihai",
+        "pinyin": "beihai",
+        "quhao": "0779",
+        "url": "http://beihai.ganji.com/",
+        "parentid": 21,
+        "priority": 50,
+        "longitude": "109.07",
+        "latitude": "21.28",
+        "area": "\u534e\u5357",
+        "city_administration_number": 450500
+    }
+},
+{
+    "model": "general.city",
+    "pk": 269,
+    "fields": {
+        "name": "\u6cb3\u6c60",
+        "slug": "hechi",
+        "pinyin": "hechi",
+        "quhao": "0778",
+        "url": "http://hechi.ganji.com/",
+        "parentid": 21,
+        "priority": 50,
+        "longitude": "108.03",
+        "latitude": "24.42",
+        "area": "\u534e\u5357",
+        "city_administration_number": 451200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 268,
+    "fields": {
+        "name": "\u94a6\u5dde",
+        "slug": "qinzhou",
+        "pinyin": "qinzhou",
+        "quhao": "0777",
+        "url": "http://qinzhou.ganji.com/",
+        "parentid": 21,
+        "priority": 50,
+        "longitude": "108.37",
+        "latitude": "21.57",
+        "area": "\u534e\u5357",
+        "city_administration_number": 450700
+    }
+},
+{
+    "model": "general.city",
+    "pk": 267,
+    "fields": {
+        "name": "\u767e\u8272",
+        "slug": "baise",
+        "pinyin": "baise",
+        "quhao": "0776",
+        "url": "http://baise.ganji.com/",
+        "parentid": 21,
+        "priority": 50,
+        "longitude": "106.36",
+        "latitude": "23.54",
+        "area": "\u534e\u5357",
+        "city_administration_number": 451000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 266,
+    "fields": {
+        "name": "\u8d35\u6e2f",
+        "slug": "guigang",
+        "pinyin": "guigang",
+        "quhao": "0775",
+        "url": "http://guigang.ganji.com/",
+        "parentid": 21,
+        "priority": 50,
+        "longitude": "109.36",
+        "latitude": "23.06",
+        "area": "\u534e\u5357",
+        "city_administration_number": 450800
+    }
+},
+{
+    "model": "general.city",
+    "pk": 265,
+    "fields": {
+        "name": "\u7389\u6797",
+        "slug": "gxyulin",
+        "pinyin": "yulin",
+        "quhao": "0775",
+        "url": "http://gxyulin.ganji.com/",
+        "parentid": 21,
+        "priority": 50,
+        "longitude": "110.09",
+        "latitude": "22.38",
+        "area": "\u534e\u5357",
+        "city_administration_number": 450900
+    }
+},
+{
+    "model": "general.city",
+    "pk": 264,
+    "fields": {
+        "name": "\u8d3a\u5dde",
+        "slug": "hezhou",
+        "pinyin": "hezhou",
+        "quhao": "0774",
+        "url": "http://hezhou.ganji.com/",
+        "parentid": 21,
+        "priority": 50,
+        "longitude": "111.53",
+        "latitude": "24.41",
+        "area": "\u534e\u5357",
+        "city_administration_number": 451100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 263,
+    "fields": {
+        "name": "\u795e\u519c\u67b6",
+        "slug": "shennongjia",
+        "pinyin": "shennongjia",
+        "quhao": "0719",
+        "url": "http://shennongjia.ganji.com/",
+        "parentid": 18,
+        "priority": 50,
+        "longitude": "110.81",
+        "latitude": "31.65",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 429021
+    }
+},
+{
+    "model": "general.city",
+    "pk": 262,
+    "fields": {
+        "name": "\u68a7\u5dde",
+        "slug": "wuzhou",
+        "pinyin": "wuzhou",
+        "quhao": "0774",
+        "url": "http://wuzhou.ganji.com/",
+        "parentid": 21,
+        "priority": 50,
+        "longitude": "111.20",
+        "latitude": "23.29",
+        "area": "\u534e\u5357",
+        "city_administration_number": 450400
+    }
+},
+{
+    "model": "general.city",
+    "pk": 261,
+    "fields": {
+        "name": "\u6842\u6797",
+        "slug": "gl",
+        "pinyin": "guilin",
+        "quhao": "0773",
+        "url": "http://gl.ganji.com/",
+        "parentid": 21,
+        "priority": 50,
+        "longitude": "110.17",
+        "latitude": "25.17",
+        "area": "\u534e\u5357",
+        "city_administration_number": 450300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 260,
+    "fields": {
+        "name": "\u6765\u5bbe",
+        "slug": "laibin",
+        "pinyin": "laibin",
+        "quhao": "0772",
+        "url": "http://laibin.ganji.com/",
+        "parentid": 21,
+        "priority": 50,
+        "longitude": "108.05",
+        "latitude": "24.70",
+        "area": "\u534e\u5357",
+        "city_administration_number": 451300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 259,
+    "fields": {
+        "name": "\u67f3\u5dde",
+        "slug": "liuzhou",
+        "pinyin": "liuzhou",
+        "quhao": "0772",
+        "url": "http://liuzhou.ganji.com/",
+        "parentid": 21,
+        "priority": 50,
+        "longitude": "109.24",
+        "latitude": "23.19",
+        "area": "\u534e\u5357",
+        "city_administration_number": 450200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 258,
+    "fields": {
+        "name": "\u5d07\u5de6",
+        "slug": "chongzuo",
+        "pinyin": "chongzuo",
+        "quhao": "0771",
+        "url": "http://chongzuo.ganji.com/",
+        "parentid": 21,
+        "priority": 50,
+        "longitude": "107.35",
+        "latitude": "22.41",
+        "area": "\u534e\u5357",
+        "city_administration_number": 451400
+    }
+},
+{
+    "model": "general.city",
+    "pk": 257,
+    "fields": {
+        "name": "\u5357\u5b81",
+        "slug": "nn",
+        "pinyin": "nanning",
+        "quhao": "0771",
+        "url": "http://nn.ganji.com/",
+        "parentid": 21,
+        "priority": 50,
+        "longitude": "108.19",
+        "latitude": "22.48",
+        "area": "\u534e\u5357",
+        "city_administration_number": 450100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 256,
+    "fields": {
+        "name": "\u8302\u540d",
+        "slug": "maoming",
+        "pinyin": "maoming",
+        "quhao": "0668",
+        "url": "http://maoming.ganji.com/",
+        "parentid": 20,
+        "priority": 50,
+        "longitude": "110.53",
+        "latitude": "21.40",
+        "area": "\u534e\u5357",
+        "city_administration_number": 440900
+    }
+},
+{
+    "model": "general.city",
+    "pk": 255,
+    "fields": {
+        "name": "\u63ed\u9633",
+        "slug": "jieyang",
+        "pinyin": "jieyang",
+        "quhao": "0663",
+        "url": "http://jieyang.ganji.com/",
+        "parentid": 20,
+        "priority": 50,
+        "longitude": "116.21",
+        "latitude": "22.32",
+        "area": "\u534e\u5357",
+        "city_administration_number": 445200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 254,
+    "fields": {
+        "name": "\u9633\u6c5f",
+        "slug": "yangjiang",
+        "pinyin": "yangjiang",
+        "quhao": "0662",
+        "url": "http://yangjiang.ganji.com/",
+        "parentid": 20,
+        "priority": 50,
+        "longitude": "111.58",
+        "latitude": "21.50",
+        "area": "\u534e\u5357",
+        "city_administration_number": 441700
+    }
+},
+{
+    "model": "general.city",
+    "pk": 253,
+    "fields": {
+        "name": "\u6c55\u5c3e",
+        "slug": "shanwei",
+        "pinyin": "shanwei",
+        "quhao": "0660",
+        "url": "http://shanwei.ganji.com/",
+        "parentid": 20,
+        "priority": 50,
+        "longitude": "115.21",
+        "latitude": "22.47",
+        "area": "\u534e\u5357",
+        "city_administration_number": 441500
+    }
+},
+{
+    "model": "general.city",
+    "pk": 252,
+    "fields": {
+        "name": "\u4e2d\u5c71",
+        "slug": "zhongshan",
+        "pinyin": "zhongshan",
+        "quhao": "0760",
+        "url": "http://zhongshan.ganji.com/",
+        "parentid": 20,
+        "priority": 50,
+        "longitude": "113.22",
+        "latitude": "22.31",
+        "area": "\u534e\u5357",
+        "city_administration_number": 442000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 251,
+    "fields": {
+        "name": "\u4e1c\u839e",
+        "slug": "dg",
+        "pinyin": "dongguan",
+        "quhao": "0769",
+        "url": "http://dg.ganji.com/",
+        "parentid": 20,
+        "priority": 100,
+        "longitude": "113.45",
+        "latitude": "23.02",
+        "area": "\u534e\u5357",
+        "city_administration_number": 441900
+    }
+},
+{
+    "model": "general.city",
+    "pk": 250,
+    "fields": {
+        "name": "\u6f6e\u5dde",
+        "slug": "chaozhou",
+        "pinyin": "chaozhou",
+        "quhao": "0768",
+        "url": "http://chaozhou.ganji.com/",
+        "parentid": 20,
+        "priority": 50,
+        "longitude": "116.38",
+        "latitude": "23.40",
+        "area": "\u534e\u5357",
+        "city_administration_number": 445100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 249,
+    "fields": {
+        "name": "\u4e91\u6d6e",
+        "slug": "yunfu",
+        "pinyin": "yunfu",
+        "quhao": "0766",
+        "url": "http://yunfu.ganji.com/",
+        "parentid": 20,
+        "priority": 50,
+        "longitude": "112.02",
+        "latitude": "22.57",
+        "area": "\u534e\u5357",
+        "city_administration_number": 445300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 248,
+    "fields": {
+        "name": "\u6e05\u8fdc",
+        "slug": "qingyuan",
+        "pinyin": "qingyuan",
+        "quhao": "0763",
+        "url": "http://qingyuan.ganji.com/",
+        "parentid": 20,
+        "priority": 50,
+        "longitude": "113.01",
+        "latitude": "23.42",
+        "area": "\u534e\u5357",
+        "city_administration_number": 441800
+    }
+},
+{
+    "model": "general.city",
+    "pk": 247,
+    "fields": {
+        "name": "\u6cb3\u6e90",
+        "slug": "heyuan",
+        "pinyin": "heyuan",
+        "quhao": "0762",
+        "url": "http://heyuan.ganji.com/",
+        "parentid": 20,
+        "priority": 50,
+        "longitude": "114.41",
+        "latitude": "23.43",
+        "area": "\u534e\u5357",
+        "city_administration_number": 441600
+    }
+},
+{
+    "model": "general.city",
+    "pk": 246,
+    "fields": {
+        "name": "\u6c5f\u95e8",
+        "slug": "jiangmen",
+        "pinyin": "jiangmen",
+        "quhao": "0750",
+        "url": "http://jiangmen.ganji.com/",
+        "parentid": 20,
+        "priority": 50,
+        "longitude": "113.04",
+        "latitude": "22.35",
+        "area": "\u534e\u5357",
+        "city_administration_number": 440700
+    }
+},
+{
+    "model": "general.city",
+    "pk": 245,
+    "fields": {
+        "name": "\u6e5b\u6c5f",
+        "slug": "zhanjiang",
+        "pinyin": "zhanjiang",
+        "quhao": "0759",
+        "url": "http://zhanjiang.ganji.com/",
+        "parentid": 20,
+        "priority": 50,
+        "longitude": "110.24",
+        "latitude": "21.11",
+        "area": "\u534e\u5357",
+        "city_administration_number": 440800
+    }
+},
+{
+    "model": "general.city",
+    "pk": 244,
+    "fields": {
+        "name": "\u8087\u5e86",
+        "slug": "zhaoqing",
+        "pinyin": "zhaoqing",
+        "quhao": "0758",
+        "url": "http://zhaoqing.ganji.com/",
+        "parentid": 20,
+        "priority": 50,
+        "longitude": "112.27",
+        "latitude": "23.03",
+        "area": "\u534e\u5357",
+        "city_administration_number": 441200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 243,
+    "fields": {
+        "name": "\u4f5b\u5c71",
+        "slug": "foshan",
+        "pinyin": "foshan",
+        "quhao": "0757",
+        "url": "http://foshan.ganji.com/",
+        "parentid": 20,
+        "priority": 150,
+        "longitude": "113.06",
+        "latitude": "23.02",
+        "area": "\u534e\u5357",
+        "city_administration_number": 440600
+    }
+},
+{
+    "model": "general.city",
+    "pk": 242,
+    "fields": {
+        "name": "\u73e0\u6d77",
+        "slug": "zhuhai",
+        "pinyin": "zhuhai",
+        "quhao": "0756",
+        "url": "http://zhuhai.ganji.com/",
+        "parentid": 20,
+        "priority": 50,
+        "longitude": "113.34",
+        "latitude": "22.17",
+        "area": "\u534e\u5357",
+        "city_administration_number": 440400
+    }
+},
+{
+    "model": "general.city",
+    "pk": 241,
+    "fields": {
+        "name": "\u6df1\u5733",
+        "slug": "sz",
+        "pinyin": "shenzhen",
+        "quhao": "0755",
+        "url": "http://sz.ganji.com/",
+        "parentid": 20,
+        "priority": 200,
+        "longitude": "114.07",
+        "latitude": "22.33",
+        "area": "\u534e\u5357",
+        "city_administration_number": 440300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 240,
+    "fields": {
+        "name": "\u6c55\u5934",
+        "slug": "shantou",
+        "pinyin": "shantou",
+        "quhao": "0754",
+        "url": "http://shantou.ganji.com/",
+        "parentid": 20,
+        "priority": 50,
+        "longitude": "116.41",
+        "latitude": "23.22",
+        "area": "\u534e\u5357",
+        "city_administration_number": 440500
+    }
+},
+{
+    "model": "general.city",
+    "pk": 239,
+    "fields": {
+        "name": "\u6885\u5dde",
+        "slug": "meizhou",
+        "pinyin": "meizhou",
+        "quhao": "0753",
+        "url": "http://meizhou.ganji.com/",
+        "parentid": 20,
+        "priority": 50,
+        "longitude": "116.07",
+        "latitude": "24.19",
+        "area": "\u534e\u5357",
+        "city_administration_number": 441400
+    }
+},
+{
+    "model": "general.city",
+    "pk": 238,
+    "fields": {
+        "name": "\u60e0\u5dde",
+        "slug": "huizhou",
+        "pinyin": "huizhou",
+        "quhao": "0752",
+        "url": "http://huizhou.ganji.com/",
+        "parentid": 20,
+        "priority": 50,
+        "longitude": "114.22",
+        "latitude": "23.05",
+        "area": "\u534e\u5357",
+        "city_administration_number": 441300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 237,
+    "fields": {
+        "name": "\u97f6\u5173",
+        "slug": "shaoguan",
+        "pinyin": "shaoguan",
+        "quhao": "0751",
+        "url": "http://shaoguan.ganji.com/",
+        "parentid": 20,
+        "priority": 50,
+        "longitude": "113.37",
+        "latitude": "24.48",
+        "area": "\u534e\u5357",
+        "city_administration_number": 440200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 236,
+    "fields": {
+        "name": "\u5e7f\u5dde",
+        "slug": "gz",
+        "pinyin": "guangzhou",
+        "quhao": "020",
+        "url": "http://gz.ganji.com/",
+        "parentid": 20,
+        "priority": 200,
+        "longitude": "113.14",
+        "latitude": "23.08",
+        "area": "\u534e\u5357",
+        "city_administration_number": 440100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 235,
+    "fields": {
+        "name": "\u6c38\u5dde",
+        "slug": "yongzhou",
+        "pinyin": "yongzhou",
+        "quhao": "0746",
+        "url": "http://yongzhou.ganji.com/",
+        "parentid": 19,
+        "priority": 50,
+        "longitude": "111.37",
+        "latitude": "26.13",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 431100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 234,
+    "fields": {
+        "name": "\u6000\u5316",
+        "slug": "huaihua",
+        "pinyin": "huaihua",
+        "quhao": "0745",
+        "url": "http://huaihua.ganji.com/",
+        "parentid": 19,
+        "priority": 50,
+        "longitude": "109.58",
+        "latitude": "27.33",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 431200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 233,
+    "fields": {
+        "name": "\u5f20\u5bb6\u754c",
+        "slug": "zhangjiajie",
+        "pinyin": "zhangjiajie",
+        "quhao": "0744",
+        "url": "http://zhangjiajie.ganji.com/",
+        "parentid": 19,
+        "priority": 50,
+        "longitude": "110.29",
+        "latitude": "29.08",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 430800
+    }
+},
+{
+    "model": "general.city",
+    "pk": 232,
+    "fields": {
+        "name": "\u6e58\u897f",
+        "slug": "xiangxi",
+        "pinyin": "xiangxi",
+        "quhao": "0743",
+        "url": "http://xiangxi.ganji.com/",
+        "parentid": 19,
+        "priority": 50,
+        "longitude": "109.60",
+        "latitude": "28.62",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 433100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 231,
+    "fields": {
+        "name": "\u5cb3\u9633",
+        "slug": "yueyang",
+        "pinyin": "yueyang",
+        "quhao": "0730",
+        "url": "http://yueyang.ganji.com/",
+        "parentid": 19,
+        "priority": 50,
+        "longitude": "113.06",
+        "latitude": "29.22",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 430600
+    }
+},
+{
+    "model": "general.city",
+    "pk": 230,
+    "fields": {
+        "name": "\u90b5\u9633",
+        "slug": "shaoyang",
+        "pinyin": "shaoyang",
+        "quhao": "0739",
+        "url": "http://shaoyang.ganji.com/",
+        "parentid": 19,
+        "priority": 50,
+        "longitude": "111.28",
+        "latitude": "27.14",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 430500
+    }
+},
+{
+    "model": "general.city",
+    "pk": 229,
+    "fields": {
+        "name": "\u5a04\u5e95",
+        "slug": "loudi",
+        "pinyin": "loudi",
+        "quhao": "0738",
+        "url": "http://loudi.ganji.com/",
+        "parentid": 19,
+        "priority": 50,
+        "longitude": "111.59",
+        "latitude": "27.44",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 431300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 228,
+    "fields": {
+        "name": "\u76ca\u9633",
+        "slug": "yiyang",
+        "pinyin": "yiyang",
+        "quhao": "0737",
+        "url": "http://yiyang.ganji.com/",
+        "parentid": 19,
+        "priority": 50,
+        "longitude": "112.20",
+        "latitude": "28.36",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 430900
+    }
+},
+{
+    "model": "general.city",
+    "pk": 227,
+    "fields": {
+        "name": "\u5e38\u5fb7",
+        "slug": "changde",
+        "pinyin": "changde",
+        "quhao": "0736",
+        "url": "http://changde.ganji.com/",
+        "parentid": 19,
+        "priority": 50,
+        "longitude": "111.51",
+        "latitude": "29.02",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 430700
+    }
+},
+{
+    "model": "general.city",
+    "pk": 226,
+    "fields": {
+        "name": "\u90f4\u5dde",
+        "slug": "chenzhou",
+        "pinyin": "chenzhou",
+        "quhao": "0735",
+        "url": "http://chenzhou.ganji.com/",
+        "parentid": 19,
+        "priority": 50,
+        "longitude": "113.02",
+        "latitude": "25.46",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 431000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 225,
+    "fields": {
+        "name": "\u8861\u9633",
+        "slug": "hengyang",
+        "pinyin": "hengyang",
+        "quhao": "0734",
+        "url": "http://hengyang.ganji.com/",
+        "parentid": 19,
+        "priority": 50,
+        "longitude": "112.37",
+        "latitude": "26.53",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 430400
+    }
+},
+{
+    "model": "general.city",
+    "pk": 224,
+    "fields": {
+        "name": "\u682a\u6d32",
+        "slug": "zhuzhou",
+        "pinyin": "zhuzhou",
+        "quhao": "0731",
+        "url": "http://zhuzhou.ganji.com/",
+        "parentid": 19,
+        "priority": 50,
+        "longitude": "113.09",
+        "latitude": "27.51",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 430200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 223,
+    "fields": {
+        "name": "\u6e58\u6f6d",
+        "slug": "xiangtan",
+        "pinyin": "xiangtan",
+        "quhao": "0731",
+        "url": "http://xiangtan.ganji.com/",
+        "parentid": 19,
+        "priority": 50,
+        "longitude": "112.53",
+        "latitude": "27.52",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 430300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 222,
+    "fields": {
+        "name": "\u957f\u6c99",
+        "slug": "cs",
+        "pinyin": "changsha",
+        "quhao": "0731",
+        "url": "http://cs.ganji.com/",
+        "parentid": 19,
+        "priority": 150,
+        "longitude": "112.59",
+        "latitude": "28.12",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 430100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 221,
+    "fields": {
+        "name": "\u5929\u95e8",
+        "slug": "tianmen",
+        "pinyin": "tianmen",
+        "quhao": "0728",
+        "url": "http://tianmen.ganji.com/",
+        "parentid": 18,
+        "priority": 50,
+        "longitude": "113.10",
+        "latitude": "30.39",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 429006
+    }
+},
+{
+    "model": "general.city",
+    "pk": 220,
+    "fields": {
+        "name": "\u6f5c\u6c5f",
+        "slug": "qianjiang",
+        "pinyin": "qianjiang",
+        "quhao": "0728",
+        "url": "http://qianjiang.ganji.com/",
+        "parentid": 18,
+        "priority": 50,
+        "longitude": "112.53",
+        "latitude": "30.26",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 429005
+    }
+},
+{
+    "model": "general.city",
+    "pk": 219,
+    "fields": {
+        "name": "\u4ed9\u6843",
+        "slug": "xiantao",
+        "pinyin": "xiantao",
+        "quhao": "0728",
+        "url": "http://xiantao.ganji.com/",
+        "parentid": 18,
+        "priority": 50,
+        "longitude": "113.27",
+        "latitude": "30.22",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 429004
+    }
+},
+{
+    "model": "general.city",
+    "pk": 218,
+    "fields": {
+        "name": "\u8346\u95e8",
+        "slug": "jingmen",
+        "pinyin": "jingmen",
+        "quhao": "0724",
+        "url": "http://jingmen.ganji.com/",
+        "parentid": 18,
+        "priority": 50,
+        "longitude": "112.12",
+        "latitude": "31.02",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 420800
+    }
+},
+{
+    "model": "general.city",
+    "pk": 217,
+    "fields": {
+        "name": "\u968f\u5dde",
+        "slug": "suizhou",
+        "pinyin": "suizhou",
+        "quhao": "0722",
+        "url": "http://suizhou.ganji.com/",
+        "parentid": 18,
+        "priority": 50,
+        "longitude": "113.22",
+        "latitude": "31.42",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 421300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 216,
+    "fields": {
+        "name": "\u5341\u5830",
+        "slug": "shiyan",
+        "pinyin": "shiyan",
+        "quhao": "0719",
+        "url": "http://shiyan.ganji.com/",
+        "parentid": 18,
+        "priority": 50,
+        "longitude": "110.47",
+        "latitude": "32.40",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 420300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 215,
+    "fields": {
+        "name": "\u6069\u65bd",
+        "slug": "enshi",
+        "pinyin": "enshi",
+        "quhao": "0718",
+        "url": "http://enshi.ganji.com/",
+        "parentid": 18,
+        "priority": 50,
+        "longitude": "109.29",
+        "latitude": "30.16",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 422800
+    }
+},
+{
+    "model": "general.city",
+    "pk": 214,
+    "fields": {
+        "name": "\u5b9c\u660c",
+        "slug": "yichang",
+        "pinyin": "yichang",
+        "quhao": "0717",
+        "url": "http://yichang.ganji.com/",
+        "parentid": 18,
+        "priority": 50,
+        "longitude": "111.17",
+        "latitude": "30.42",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 420500
+    }
+},
+{
+    "model": "general.city",
+    "pk": 213,
+    "fields": {
+        "name": "\u8346\u5dde",
+        "slug": "jingzhou",
+        "pinyin": "jingzhou",
+        "quhao": "0716",
+        "url": "http://jingzhou.ganji.com/",
+        "parentid": 18,
+        "priority": 50,
+        "longitude": "112.24",
+        "latitude": "30.29",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 421000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 212,
+    "fields": {
+        "name": "\u54b8\u5b81",
+        "slug": "xianning",
+        "pinyin": "xianning",
+        "quhao": "0715",
+        "url": "http://xianning.ganji.com/",
+        "parentid": 18,
+        "priority": 50,
+        "longitude": "114.17",
+        "latitude": "29.53",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 421200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 211,
+    "fields": {
+        "name": "\u9ec4\u77f3",
+        "slug": "huangshi",
+        "pinyin": "huangshi",
+        "quhao": "0714",
+        "url": "http://huangshi.ganji.com/",
+        "parentid": 18,
+        "priority": 50,
+        "longitude": "115.06",
+        "latitude": "30.12",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 420200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 210,
+    "fields": {
+        "name": "\u9ec4\u5188",
+        "slug": "huanggang",
+        "pinyin": "huanggang",
+        "quhao": "0713",
+        "url": "http://huanggang.ganji.com/",
+        "parentid": 18,
+        "priority": 50,
+        "longitude": "114.87",
+        "latitude": "30.42",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 421100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 209,
+    "fields": {
+        "name": "\u5b5d\u611f",
+        "slug": "xiaogan",
+        "pinyin": "xiaogan",
+        "quhao": "0712",
+        "url": "http://xiaogan.ganji.com/",
+        "parentid": 18,
+        "priority": 50,
+        "longitude": "113.54",
+        "latitude": "30.56",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 420900
+    }
+},
+{
+    "model": "general.city",
+    "pk": 208,
+    "fields": {
+        "name": "\u9102\u5dde",
+        "slug": "ezhou",
+        "pinyin": "ezhou",
+        "quhao": "0711",
+        "url": "http://ezhou.ganji.com/",
+        "parentid": 18,
+        "priority": 50,
+        "longitude": "114.52",
+        "latitude": "30.23",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 420700
+    }
+},
+{
+    "model": "general.city",
+    "pk": 207,
+    "fields": {
+        "name": "\u6b66\u6c49",
+        "slug": "wh",
+        "pinyin": "wuhan",
+        "quhao": "027",
+        "url": "http://wh.ganji.com/",
+        "parentid": 18,
+        "priority": 150,
+        "longitude": "114.17",
+        "latitude": "30.35",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 420100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 206,
+    "fields": {
+        "name": "\u4e09\u95e8\u5ce1",
+        "slug": "sanmenxia",
+        "pinyin": "sanmenxia",
+        "quhao": "0398",
+        "url": "http://sanmenxia.ganji.com/",
+        "parentid": 17,
+        "priority": 50,
+        "longitude": "111.12",
+        "latitude": "34.47",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 411200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 205,
+    "fields": {
+        "name": "\u9a7b\u9a6c\u5e97",
+        "slug": "zhumadian",
+        "pinyin": "zhumadian",
+        "quhao": "0396",
+        "url": "http://zhumadian.ganji.com/",
+        "parentid": 17,
+        "priority": 50,
+        "longitude": "114.01",
+        "latitude": "32.58",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 411700
+    }
+},
+{
+    "model": "general.city",
+    "pk": 204,
+    "fields": {
+        "name": "\u6f2f\u6cb3",
+        "slug": "luohe",
+        "pinyin": "luohe",
+        "quhao": "0395",
+        "url": "http://luohe.ganji.com/",
+        "parentid": 17,
+        "priority": 50,
+        "longitude": "114.02",
+        "latitude": "33.33",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 411100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 203,
+    "fields": {
+        "name": "\u5468\u53e3",
+        "slug": "zhoukou",
+        "pinyin": "zhoukou",
+        "quhao": "0394",
+        "url": "http://zhoukou.ganji.com/",
+        "parentid": 17,
+        "priority": 50,
+        "longitude": "114.38",
+        "latitude": "33.37",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 411600
+    }
+},
+{
+    "model": "general.city",
+    "pk": 202,
+    "fields": {
+        "name": "\u6fee\u9633",
+        "slug": "puyang",
+        "pinyin": "puyang",
+        "quhao": "0393",
+        "url": "http://puyang.ganji.com/",
+        "parentid": 17,
+        "priority": 50,
+        "longitude": "115.01",
+        "latitude": "35.44",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 410900
+    }
+},
+{
+    "model": "general.city",
+    "pk": 201,
+    "fields": {
+        "name": "\u9e64\u58c1",
+        "slug": "hebi",
+        "pinyin": "hebi",
+        "quhao": "0392",
+        "url": "http://hebi.ganji.com/",
+        "parentid": 17,
+        "priority": 50,
+        "longitude": "114.11",
+        "latitude": "35.54",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 410600
+    }
+},
+{
+    "model": "general.city",
+    "pk": 200,
+    "fields": {
+        "name": "\u7126\u4f5c",
+        "slug": "jiaozuo",
+        "pinyin": "jiaozuo",
+        "quhao": "0391",
+        "url": "http://jiaozuo.ganji.com/",
+        "parentid": 17,
+        "priority": 50,
+        "longitude": "113.12",
+        "latitude": "35.14",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 410800
+    }
+},
+{
+    "model": "general.city",
+    "pk": 199,
+    "fields": {
+        "name": "\u5546\u4e18",
+        "slug": "shangqiu",
+        "pinyin": "shangqiu",
+        "quhao": "0370",
+        "url": "http://shangqiu.ganji.com/",
+        "parentid": 17,
+        "priority": 50,
+        "longitude": "115.38",
+        "latitude": "34.26",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 411400
+    }
+},
+{
+    "model": "general.city",
+    "pk": 198,
+    "fields": {
+        "name": "\u6d1b\u9633",
+        "slug": "luoyang",
+        "pinyin": "luoyang",
+        "quhao": "0379",
+        "url": "http://luoyang.ganji.com/",
+        "parentid": 17,
+        "priority": 100,
+        "longitude": "112.27",
+        "latitude": "34.41",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 410300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 197,
+    "fields": {
+        "name": "\u5f00\u5c01",
+        "slug": "kaifeng",
+        "pinyin": "kaifeng",
+        "quhao": "0378",
+        "url": "http://kaifeng.ganji.com/",
+        "parentid": 17,
+        "priority": 50,
+        "longitude": "114.21",
+        "latitude": "34.47",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 410200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 196,
+    "fields": {
+        "name": "\u5357\u9633",
+        "slug": "nanyang",
+        "pinyin": "nanyang",
+        "quhao": "0377",
+        "url": "http://nanyang.ganji.com/",
+        "parentid": 17,
+        "priority": 50,
+        "longitude": "112.32",
+        "latitude": "33.00",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 411300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 195,
+    "fields": {
+        "name": "\u4fe1\u9633",
+        "slug": "xinyang",
+        "pinyin": "xinyang",
+        "quhao": "0376",
+        "url": "http://xinyang.ganji.com/",
+        "parentid": 17,
+        "priority": 50,
+        "longitude": "114.04",
+        "latitude": "32.07",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 411500
+    }
+},
+{
+    "model": "general.city",
+    "pk": 194,
+    "fields": {
+        "name": "\u5e73\u9876\u5c71",
+        "slug": "pingdingshan",
+        "pinyin": "pingdingshan",
+        "quhao": "0375",
+        "url": "http://pingdingshan.ganji.com/",
+        "parentid": 17,
+        "priority": 50,
+        "longitude": "113.17",
+        "latitude": "33.44",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 410400
+    }
+},
+{
+    "model": "general.city",
+    "pk": 193,
+    "fields": {
+        "name": "\u8bb8\u660c",
+        "slug": "xuchang",
+        "pinyin": "xuchang",
+        "quhao": "0374",
+        "url": "http://xuchang.ganji.com/",
+        "parentid": 17,
+        "priority": 50,
+        "longitude": "113.49",
+        "latitude": "34.01",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 411000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 192,
+    "fields": {
+        "name": "\u65b0\u4e61",
+        "slug": "xinxiang",
+        "pinyin": "xinxiang",
+        "quhao": "0373",
+        "url": "http://xinxiang.ganji.com/",
+        "parentid": 17,
+        "priority": 50,
+        "longitude": "113.52",
+        "latitude": "35.18",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 410700
+    }
+},
+{
+    "model": "general.city",
+    "pk": 191,
+    "fields": {
+        "name": "\u5b89\u9633",
+        "slug": "anyang",
+        "pinyin": "anyang",
+        "quhao": "0372",
+        "url": "http://anyang.ganji.com/",
+        "parentid": 17,
+        "priority": 50,
+        "longitude": "114.21",
+        "latitude": "36.06",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 410500
+    }
+},
+{
+    "model": "general.city",
+    "pk": 190,
+    "fields": {
+        "name": "\u90d1\u5dde",
+        "slug": "zz",
+        "pinyin": "zhengzhou",
+        "quhao": "0371",
+        "url": "http://zz.ganji.com/",
+        "parentid": 17,
+        "priority": 100,
+        "longitude": "999.99",
+        "latitude": "34.46",
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 410100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 189,
+    "fields": {
+        "name": "\u804a\u57ce",
+        "slug": "liaocheng",
+        "pinyin": "liaocheng",
+        "quhao": "0635",
+        "url": "http://liaocheng.ganji.com/",
+        "parentid": 16,
+        "priority": 50,
+        "longitude": "115.57",
+        "latitude": "36.26",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 371500
+    }
+},
+{
+    "model": "general.city",
+    "pk": 188,
+    "fields": {
+        "name": "\u83b1\u829c",
+        "slug": "laiwu",
+        "pinyin": "laiwu",
+        "quhao": "0634",
+        "url": "http://laiwu.ganji.com/",
+        "parentid": 16,
+        "priority": 50,
+        "longitude": "117.40",
+        "latitude": "36.12",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 371200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 187,
+    "fields": {
+        "name": "\u65e5\u7167",
+        "slug": "rizhao",
+        "pinyin": "rizhao",
+        "quhao": "0633",
+        "url": "http://rizhao.ganji.com/",
+        "parentid": 16,
+        "priority": 50,
+        "longitude": "119.32",
+        "latitude": "35.23",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 371100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 186,
+    "fields": {
+        "name": "\u67a3\u5e84",
+        "slug": "zaozhuang",
+        "pinyin": "zaozhuang",
+        "quhao": "0632",
+        "url": "http://zaozhuang.ganji.com/",
+        "parentid": 16,
+        "priority": 50,
+        "longitude": "117.33",
+        "latitude": "34.52",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 370400
+    }
+},
+{
+    "model": "general.city",
+    "pk": 185,
+    "fields": {
+        "name": "\u5a01\u6d77",
+        "slug": "wei",
+        "pinyin": "weihai",
+        "quhao": "0631",
+        "url": "http://wei.ganji.com/",
+        "parentid": 16,
+        "priority": 50,
+        "longitude": "122.07",
+        "latitude": "37.31",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 371000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 184,
+    "fields": {
+        "name": "\u4e1c\u8425",
+        "slug": "dongying",
+        "pinyin": "dongying",
+        "quhao": "0546",
+        "url": "http://dongying.ganji.com/",
+        "parentid": 16,
+        "priority": 100,
+        "longitude": "118.30",
+        "latitude": "37.27",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 370500
+    }
+},
+{
+    "model": "general.city",
+    "pk": 183,
+    "fields": {
+        "name": "\u6ee8\u5dde",
+        "slug": "binzhou",
+        "pinyin": "binzhou",
+        "quhao": "0543",
+        "url": "http://binzhou.ganji.com/",
+        "parentid": 16,
+        "priority": 50,
+        "longitude": "118.02",
+        "latitude": "37.22",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 371600
+    }
+},
+{
+    "model": "general.city",
+    "pk": 182,
+    "fields": {
+        "name": "\u83cf\u6cfd",
+        "slug": "heze",
+        "pinyin": "heze",
+        "quhao": "0530",
+        "url": "http://heze.ganji.com/",
+        "parentid": 16,
+        "priority": 50,
+        "longitude": "115.26",
+        "latitude": "35.14",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 371700
+    }
+},
+{
+    "model": "general.city",
+    "pk": 181,
+    "fields": {
+        "name": "\u4e34\u6c82",
+        "slug": "linyi",
+        "pinyin": "linyi",
+        "quhao": "0539",
+        "url": "http://linyi.ganji.com/",
+        "parentid": 16,
+        "priority": 100,
+        "longitude": "118.20",
+        "latitude": "35.03",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 371300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 180,
+    "fields": {
+        "name": "\u6cf0\u5b89",
+        "slug": "taian",
+        "pinyin": "taian",
+        "quhao": "0538",
+        "url": "http://taian.ganji.com/",
+        "parentid": 16,
+        "priority": 50,
+        "longitude": "117.08",
+        "latitude": "36.11",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 370900
+    }
+},
+{
+    "model": "general.city",
+    "pk": 179,
+    "fields": {
+        "name": "\u6d4e\u5b81",
+        "slug": "jining",
+        "pinyin": "jining",
+        "quhao": "0537",
+        "url": "http://jining.ganji.com/",
+        "parentid": 16,
+        "priority": 100,
+        "longitude": "116.33",
+        "latitude": "35.23",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 370800
+    }
+},
+{
+    "model": "general.city",
+    "pk": 178,
+    "fields": {
+        "name": "\u6f4d\u574a",
+        "slug": "weifang",
+        "pinyin": "weifang",
+        "quhao": "0536",
+        "url": "http://weifang.ganji.com/",
+        "parentid": 16,
+        "priority": 100,
+        "longitude": "119.06",
+        "latitude": "36.43",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 370700
+    }
+},
+{
+    "model": "general.city",
+    "pk": 177,
+    "fields": {
+        "name": "\u70df\u53f0",
+        "slug": "yantai",
+        "pinyin": "yantai",
+        "quhao": "0535",
+        "url": "http://yantai.ganji.com/",
+        "parentid": 16,
+        "priority": 100,
+        "longitude": "121.24",
+        "latitude": "37.32",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 370600
+    }
+},
+{
+    "model": "general.city",
+    "pk": 176,
+    "fields": {
+        "name": "\u5fb7\u5dde",
+        "slug": "dezhou",
+        "pinyin": "dezhou",
+        "quhao": "0534",
+        "url": "http://dezhou.ganji.com/",
+        "parentid": 16,
+        "priority": 50,
+        "longitude": "116.17",
+        "latitude": "37.26",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 371400
+    }
+},
+{
+    "model": "general.city",
+    "pk": 175,
+    "fields": {
+        "name": "\u6dc4\u535a",
+        "slug": "zibo",
+        "pinyin": "zibo",
+        "quhao": "0533",
+        "url": "http://zibo.ganji.com/",
+        "parentid": 16,
+        "priority": 100,
+        "longitude": "118.03",
+        "latitude": "36.48",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 370300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 174,
+    "fields": {
+        "name": "\u9752\u5c9b",
+        "slug": "qd",
+        "pinyin": "qingdao",
+        "quhao": "0532",
+        "url": "http://qd.ganji.com/",
+        "parentid": 16,
+        "priority": 150,
+        "longitude": "120.18",
+        "latitude": "36.03",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 370200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 173,
+    "fields": {
+        "name": "\u6d4e\u5357",
+        "slug": "jn",
+        "pinyin": "jinan",
+        "quhao": "0531",
+        "url": "http://jn.ganji.com/",
+        "parentid": 16,
+        "priority": 100,
+        "longitude": "117.00",
+        "latitude": "36.40",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 370100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 172,
+    "fields": {
+        "name": "\u9e70\u6f6d",
+        "slug": "yingtan",
+        "pinyin": "yingtan",
+        "quhao": "0701",
+        "url": "http://yingtan.ganji.com/",
+        "parentid": 15,
+        "priority": 50,
+        "longitude": "117.03",
+        "latitude": "28.14",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 360600
+    }
+},
+{
+    "model": "general.city",
+    "pk": 171,
+    "fields": {
+        "name": "\u65b0\u4f59",
+        "slug": "xinyu",
+        "pinyin": "xinyu",
+        "quhao": "0790",
+        "url": "http://xinyu.ganji.com/",
+        "parentid": 15,
+        "priority": 50,
+        "longitude": "114.56",
+        "latitude": "27.48",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 360500
+    }
+},
+{
+    "model": "general.city",
+    "pk": 170,
+    "fields": {
+        "name": "\u840d\u4e61",
+        "slug": "pingxiang",
+        "pinyin": "pingxiang",
+        "quhao": "0799",
+        "url": "http://pingxiang.ganji.com/",
+        "parentid": 15,
+        "priority": 50,
+        "longitude": "113.50",
+        "latitude": "27.37",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 360300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 169,
+    "fields": {
+        "name": "\u666f\u5fb7\u9547",
+        "slug": "jingdezhen",
+        "pinyin": "jingdezhen",
+        "quhao": "0798",
+        "url": "http://jingdezhen.ganji.com/",
+        "parentid": 15,
+        "priority": 50,
+        "longitude": "117.13",
+        "latitude": "29.17",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 360200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 168,
+    "fields": {
+        "name": "\u8d63\u5dde",
+        "slug": "ganzhou",
+        "pinyin": "ganzhou",
+        "quhao": "0797",
+        "url": "http://ganzhou.ganji.com/",
+        "parentid": 15,
+        "priority": 50,
+        "longitude": "114.56",
+        "latitude": "28.52",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 360700
+    }
+},
+{
+    "model": "general.city",
+    "pk": 167,
+    "fields": {
+        "name": "\u5409\u5b89",
+        "slug": "jian",
+        "pinyin": "jian",
+        "quhao": "0796",
+        "url": "http://jian.ganji.com/",
+        "parentid": 15,
+        "priority": 50,
+        "longitude": "114.58",
+        "latitude": "27.07",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 360800
+    }
+},
+{
+    "model": "general.city",
+    "pk": 166,
+    "fields": {
+        "name": "\u5b9c\u6625",
+        "slug": "jxyichun",
+        "pinyin": "yichun",
+        "quhao": "0795",
+        "url": "http://jxyichun.ganji.com/",
+        "parentid": 15,
+        "priority": 50,
+        "longitude": "114.23",
+        "latitude": "27.47",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 360900
+    }
+},
+{
+    "model": "general.city",
+    "pk": 165,
+    "fields": {
+        "name": "\u629a\u5dde",
+        "slug": "jxfuzhou",
+        "pinyin": "fuzhou",
+        "quhao": "0794",
+        "url": "http://jxfuzhou.ganji.com/",
+        "parentid": 15,
+        "priority": 50,
+        "longitude": "116.29",
+        "latitude": "27.93",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 361000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 164,
+    "fields": {
+        "name": "\u4e0a\u9976",
+        "slug": "shangrao",
+        "pinyin": "shangrao",
+        "quhao": "0793",
+        "url": "http://shangrao.ganji.com/",
+        "parentid": 15,
+        "priority": 50,
+        "longitude": "117.58",
+        "latitude": "25.27",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 361100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 163,
+    "fields": {
+        "name": "\u4e5d\u6c5f",
+        "slug": "jiujiang",
+        "pinyin": "jiujiang",
+        "quhao": "0792",
+        "url": "http://jiujiang.ganji.com/",
+        "parentid": 15,
+        "priority": 50,
+        "longitude": "115.58",
+        "latitude": "29.43",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 360400
+    }
+},
+{
+    "model": "general.city",
+    "pk": 162,
+    "fields": {
+        "name": "\u5357\u660c",
+        "slug": "nc",
+        "pinyin": "nanchang",
+        "quhao": "0791",
+        "url": "http://nc.ganji.com/",
+        "parentid": 15,
+        "priority": 100,
+        "longitude": "115.55",
+        "latitude": "28.40",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 360100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 161,
+    "fields": {
+        "name": "\u5357\u5e73",
+        "slug": "nanping",
+        "pinyin": "nanping",
+        "quhao": "0599",
+        "url": "http://nanping.ganji.com/",
+        "parentid": 14,
+        "priority": 50,
+        "longitude": "118.10",
+        "latitude": "26.38",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 350700
+    }
+},
+{
+    "model": "general.city",
+    "pk": 160,
+    "fields": {
+        "name": "\u4e09\u660e",
+        "slug": "sanming",
+        "pinyin": "sanming",
+        "quhao": "0598",
+        "url": "http://sanming.ganji.com/",
+        "parentid": 14,
+        "priority": 50,
+        "longitude": "117.36",
+        "latitude": "26.13",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 350400
+    }
+},
+{
+    "model": "general.city",
+    "pk": 159,
+    "fields": {
+        "name": "\u9f99\u5ca9",
+        "slug": "longyan",
+        "pinyin": "longyan",
+        "quhao": "0597",
+        "url": "http://longyan.ganji.com/",
+        "parentid": 14,
+        "priority": 50,
+        "longitude": "117.01",
+        "latitude": "25.06",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 350800
+    }
+},
+{
+    "model": "general.city",
+    "pk": 158,
+    "fields": {
+        "name": "\u6f33\u5dde",
+        "slug": "zhangzhou",
+        "pinyin": "zhangzhou",
+        "quhao": "0596",
+        "url": "http://zhangzhou.ganji.com/",
+        "parentid": 14,
+        "priority": 50,
+        "longitude": "117.39",
+        "latitude": "24.31",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 350600
+    }
+},
+{
+    "model": "general.city",
+    "pk": 157,
+    "fields": {
+        "name": "\u6cc9\u5dde",
+        "slug": "quanzhou",
+        "pinyin": "quanzhou",
+        "quhao": "0595",
+        "url": "http://quanzhou.ganji.com/",
+        "parentid": 14,
+        "priority": 100,
+        "longitude": "118.36",
+        "latitude": "24.56",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 350500
+    }
+},
+{
+    "model": "general.city",
+    "pk": 156,
+    "fields": {
+        "name": "\u8386\u7530",
+        "slug": "putian",
+        "pinyin": "putian",
+        "quhao": "0594",
+        "url": "http://putian.ganji.com/",
+        "parentid": 14,
+        "priority": 50,
+        "longitude": "119.01",
+        "latitude": "24.26",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 350300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 155,
+    "fields": {
+        "name": "\u5b81\u5fb7",
+        "slug": "ningde",
+        "pinyin": "ningde",
+        "quhao": "0593",
+        "url": "http://ningde.ganji.com/",
+        "parentid": 14,
+        "priority": 50,
+        "longitude": "119.31",
+        "latitude": "26.39",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 350900
+    }
+},
+{
+    "model": "general.city",
+    "pk": 154,
+    "fields": {
+        "name": "\u53a6\u95e8",
+        "slug": "xm",
+        "pinyin": "xiamen",
+        "quhao": "0592",
+        "url": "http://xm.ganji.com/",
+        "parentid": 14,
+        "priority": 100,
+        "longitude": "118.06",
+        "latitude": "24.27",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 350200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 153,
+    "fields": {
+        "name": "\u798f\u5dde",
+        "slug": "fz",
+        "pinyin": "fuzhou",
+        "quhao": "0591",
+        "url": "http://fz.ganji.com/",
+        "parentid": 14,
+        "priority": 100,
+        "longitude": "119.18",
+        "latitude": "26.05",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 350100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 152,
+    "fields": {
+        "name": "\u6c60\u5dde",
+        "slug": "chizhou",
+        "pinyin": "chizhou",
+        "quhao": "0566",
+        "url": "http://chizhou.ganji.com/",
+        "parentid": 13,
+        "priority": 50,
+        "longitude": "117.48",
+        "latitude": "30.65",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 341700
+    }
+},
+{
+    "model": "general.city",
+    "pk": 151,
+    "fields": {
+        "name": "\u5de2\u6e56",
+        "slug": "chaohu",
+        "pinyin": "chaohu",
+        "quhao": "0565",
+        "url": "http://chaohu.ganji.com/",
+        "parentid": 13,
+        "priority": 50,
+        "longitude": "117.52",
+        "latitude": "31.36",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 342600
+    }
+},
+{
+    "model": "general.city",
+    "pk": 150,
+    "fields": {
+        "name": "\u516d\u5b89",
+        "slug": "luan",
+        "pinyin": "luan",
+        "quhao": "0564",
+        "url": "http://luan.ganji.com/",
+        "parentid": 13,
+        "priority": 50,
+        "longitude": "116.28",
+        "latitude": "31.44",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 341500
+    }
+},
+{
+    "model": "general.city",
+    "pk": 149,
+    "fields": {
+        "name": "\u5ba3\u57ce",
+        "slug": "xuancheng",
+        "pinyin": "xuancheng",
+        "quhao": "0563",
+        "url": "http://xuancheng.ganji.com/",
+        "parentid": 13,
+        "priority": 50,
+        "longitude": "118.74",
+        "latitude": "30.94",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 341800
+    }
+},
+{
+    "model": "general.city",
+    "pk": 148,
+    "fields": {
+        "name": "\u94dc\u9675",
+        "slug": "tongling",
+        "pinyin": "tongling",
+        "quhao": "0562",
+        "url": "http://tongling.ganji.com/",
+        "parentid": 13,
+        "priority": 50,
+        "longitude": "117.48",
+        "latitude": "30.56",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 340700
+    }
+},
+{
+    "model": "general.city",
+    "pk": 147,
+    "fields": {
+        "name": "\u6dee\u5317",
+        "slug": "huaibei",
+        "pinyin": "huaibei",
+        "quhao": "0561",
+        "url": "http://huaibei.ganji.com/",
+        "parentid": 13,
+        "priority": 50,
+        "longitude": "116.47",
+        "latitude": "33.57",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 340600
+    }
+},
+{
+    "model": "general.city",
+    "pk": 146,
+    "fields": {
+        "name": "\u6ec1\u5dde",
+        "slug": "chuzhou",
+        "pinyin": "chuzhou",
+        "quhao": "0550",
+        "url": "http://chuzhou.ganji.com/",
+        "parentid": 13,
+        "priority": 50,
+        "longitude": "118.18",
+        "latitude": "32.18",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 341100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 145,
+    "fields": {
+        "name": "\u9ec4\u5c71",
+        "slug": "huangshan",
+        "pinyin": "huangshan",
+        "quhao": "0559",
+        "url": "http://huangshan.ganji.com/",
+        "parentid": 13,
+        "priority": 50,
+        "longitude": "118.18",
+        "latitude": "29.43",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 341000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 144,
+    "fields": {
+        "name": "\u4eb3\u5dde",
+        "slug": "bozhou",
+        "pinyin": "bozhou",
+        "quhao": "0567",
+        "url": "http://bozhou.ganji.com/",
+        "parentid": 13,
+        "priority": 50,
+        "longitude": "115.47",
+        "latitude": "33.52",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 341600
+    }
+},
+{
+    "model": "general.city",
+    "pk": 143,
+    "fields": {
+        "name": "\u961c\u9633",
+        "slug": "fuyang",
+        "pinyin": "fuyang",
+        "quhao": "0558",
+        "url": "http://fuyang.ganji.com/",
+        "parentid": 13,
+        "priority": 50,
+        "longitude": "115.48",
+        "latitude": "32.54",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 341200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 142,
+    "fields": {
+        "name": "\u5bbf\u5dde",
+        "slug": "ahsuzhou",
+        "pinyin": "suzhou",
+        "quhao": "0557",
+        "url": "http://ahsuzhou.ganji.com/",
+        "parentid": 13,
+        "priority": 50,
+        "longitude": "116.58",
+        "latitude": "33.38",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 341300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 141,
+    "fields": {
+        "name": "\u5b89\u5e86",
+        "slug": "anqing",
+        "pinyin": "anqing",
+        "quhao": "0556",
+        "url": "http://anqing.ganji.com/",
+        "parentid": 13,
+        "priority": 50,
+        "longitude": "117.02",
+        "latitude": "30.31",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 340800
+    }
+},
+{
+    "model": "general.city",
+    "pk": 140,
+    "fields": {
+        "name": "\u9a6c\u978d\u5c71",
+        "slug": "maanshan",
+        "pinyin": "maanshan",
+        "quhao": "0555",
+        "url": "http://maanshan.ganji.com/",
+        "parentid": 13,
+        "priority": 50,
+        "longitude": "118.28",
+        "latitude": "31.43",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 340500
+    }
+},
+{
+    "model": "general.city",
+    "pk": 139,
+    "fields": {
+        "name": "\u6dee\u5357",
+        "slug": "huainan",
+        "pinyin": "huainan",
+        "quhao": "0554",
+        "url": "http://huainan.ganji.com/",
+        "parentid": 13,
+        "priority": 50,
+        "longitude": "116.58",
+        "latitude": "32.37",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 340400
+    }
+},
+{
+    "model": "general.city",
+    "pk": 138,
+    "fields": {
+        "name": "\u829c\u6e56",
+        "slug": "wuhu",
+        "pinyin": "wuhu",
+        "quhao": "0553",
+        "url": "http://wuhu.ganji.com/",
+        "parentid": 13,
+        "priority": 50,
+        "longitude": "118.22",
+        "latitude": "31.19",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 340200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 137,
+    "fields": {
+        "name": "\u868c\u57e0",
+        "slug": "bengbu",
+        "pinyin": "bengbu",
+        "quhao": "0552",
+        "url": "http://bengbu.ganji.com/",
+        "parentid": 13,
+        "priority": 50,
+        "longitude": "117.21",
+        "latitude": "32.56",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 340300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 136,
+    "fields": {
+        "name": "\u5408\u80a5",
+        "slug": "hf",
+        "pinyin": "hefei",
+        "quhao": "0551",
+        "url": "http://hf.ganji.com/",
+        "parentid": 13,
+        "priority": 100,
+        "longitude": "117.17",
+        "latitude": "31.52",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 340100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 135,
+    "fields": {
+        "name": "\u821f\u5c71",
+        "slug": "zhoushan",
+        "pinyin": "zhoushan",
+        "quhao": "0580",
+        "url": "http://zhoushan.ganji.com/",
+        "parentid": 12,
+        "priority": 50,
+        "longitude": "122.06",
+        "latitude": "30.01",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 330900
+    }
+},
+{
+    "model": "general.city",
+    "pk": 134,
+    "fields": {
+        "name": "\u8862\u5dde",
+        "slug": "quzhou",
+        "pinyin": "quzhou",
+        "quhao": "0570",
+        "url": "http://quzhou.ganji.com/",
+        "parentid": 12,
+        "priority": 50,
+        "longitude": "118.52",
+        "latitude": "28.58",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 330800
+    }
+},
+{
+    "model": "general.city",
+    "pk": 133,
+    "fields": {
+        "name": "\u91d1\u534e",
+        "slug": "jinhua",
+        "pinyin": "jinhua",
+        "quhao": "0579",
+        "url": "http://jinhua.ganji.com/",
+        "parentid": 12,
+        "priority": 50,
+        "longitude": "119.39",
+        "latitude": "29.07",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 330700
+    }
+},
+{
+    "model": "general.city",
+    "pk": 132,
+    "fields": {
+        "name": "\u4e3d\u6c34",
+        "slug": "lishui",
+        "pinyin": "lishui",
+        "quhao": "0578",
+        "url": "http://lishui.ganji.com/",
+        "parentid": 12,
+        "priority": 50,
+        "longitude": "119.54",
+        "latitude": "28.27",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 331100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 131,
+    "fields": {
+        "name": "\u6e29\u5dde",
+        "slug": "wenzhou",
+        "pinyin": "wenzhou",
+        "quhao": "0577",
+        "url": "http://wenzhou.ganji.com/",
+        "parentid": 12,
+        "priority": 100,
+        "longitude": "120.39",
+        "latitude": "28.01",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 330300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 130,
+    "fields": {
+        "name": "\u53f0\u5dde",
+        "slug": "zjtaizhou",
+        "pinyin": "taizhou",
+        "quhao": "0576",
+        "url": "http://zjtaizhou.ganji.com/",
+        "parentid": 12,
+        "priority": 100,
+        "longitude": "121.27",
+        "latitude": "28.41",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 331000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 129,
+    "fields": {
+        "name": "\u7ecd\u5174",
+        "slug": "shaoxing",
+        "pinyin": "shaoxing",
+        "quhao": "0575",
+        "url": "http://shaoxing.ganji.com/",
+        "parentid": 12,
+        "priority": 100,
+        "longitude": "120.34",
+        "latitude": "30.00",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 330600
+    }
+},
+{
+    "model": "general.city",
+    "pk": 128,
+    "fields": {
+        "name": "\u5b81\u6ce2",
+        "slug": "nb",
+        "pinyin": "ningbo",
+        "quhao": "0574",
+        "url": "http://nb.ganji.com/",
+        "parentid": 12,
+        "priority": 150,
+        "longitude": "121.33",
+        "latitude": "29.52",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 330200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 127,
+    "fields": {
+        "name": "\u5609\u5174",
+        "slug": "jiaxing",
+        "pinyin": "jiaxing",
+        "quhao": "0573",
+        "url": "http://jiaxing.ganji.com/",
+        "parentid": 12,
+        "priority": 100,
+        "longitude": "120.45",
+        "latitude": "30.46",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 330400
+    }
+},
+{
+    "model": "general.city",
+    "pk": 126,
+    "fields": {
+        "name": "\u6e56\u5dde",
+        "slug": "huzhou",
+        "pinyin": "huzhou",
+        "quhao": "0572",
+        "url": "http://huzhou.ganji.com/",
+        "parentid": 12,
+        "priority": 50,
+        "longitude": "120.06",
+        "latitude": "30.52",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 330500
+    }
+},
+{
+    "model": "general.city",
+    "pk": 125,
+    "fields": {
+        "name": "\u676d\u5dde",
+        "slug": "hz",
+        "pinyin": "hangzhou",
+        "quhao": "0571",
+        "url": "http://hz.ganji.com/",
+        "parentid": 12,
+        "priority": 150,
+        "longitude": "120.10",
+        "latitude": "30.16",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 330100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 124,
+    "fields": {
+        "name": "\u5bbf\u8fc1",
+        "slug": "suqian",
+        "pinyin": "suqian",
+        "quhao": "0527",
+        "url": "http://suqian.ganji.com/",
+        "parentid": 11,
+        "priority": 50,
+        "longitude": "118.18",
+        "latitude": "33.58",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 321300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 123,
+    "fields": {
+        "name": "\u6cf0\u5dde",
+        "slug": "jstaizhou",
+        "pinyin": "taizhou",
+        "quhao": "0523",
+        "url": "http://jstaizhou.ganji.com/",
+        "parentid": 11,
+        "priority": 100,
+        "longitude": "119.54",
+        "latitude": "32.30",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 321200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 122,
+    "fields": {
+        "name": "\u65e0\u9521",
+        "slug": "wx",
+        "pinyin": "wuxi",
+        "quhao": "0510",
+        "url": "http://wx.ganji.com/",
+        "parentid": 11,
+        "priority": 150,
+        "longitude": "120.18",
+        "latitude": "31.34",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 320200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 121,
+    "fields": {
+        "name": "\u5e38\u5dde",
+        "slug": "changzhou",
+        "pinyin": "changzhou",
+        "quhao": "0519",
+        "url": "http://changzhou.ganji.com/",
+        "parentid": 11,
+        "priority": 100,
+        "longitude": "119.58",
+        "latitude": "31.47",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 320400
+    }
+},
+{
+    "model": "general.city",
+    "pk": 120,
+    "fields": {
+        "name": "\u8fde\u4e91\u6e2f",
+        "slug": "lianyungang",
+        "pinyin": "lianyungang",
+        "quhao": "0518",
+        "url": "http://lianyungang.ganji.com/",
+        "parentid": 11,
+        "priority": 50,
+        "longitude": "119.15",
+        "latitude": "34.60",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 320700
+    }
+},
+{
+    "model": "general.city",
+    "pk": 119,
+    "fields": {
+        "name": "\u6dee\u5b89",
+        "slug": "huaian",
+        "pinyin": "huaian",
+        "quhao": "0517",
+        "url": "http://huaian.ganji.com/",
+        "parentid": 11,
+        "priority": 50,
+        "longitude": "119.09",
+        "latitude": "33.30",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 320800
+    }
+},
+{
+    "model": "general.city",
+    "pk": 118,
+    "fields": {
+        "name": "\u5f90\u5dde",
+        "slug": "xuzhou",
+        "pinyin": "xuzhou",
+        "quhao": "0516",
+        "url": "http://xuzhou.ganji.com/",
+        "parentid": 11,
+        "priority": 100,
+        "longitude": "117.11",
+        "latitude": "34.15",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 320300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 117,
+    "fields": {
+        "name": "\u76d0\u57ce",
+        "slug": "yancheng",
+        "pinyin": "yancheng",
+        "quhao": "0515",
+        "url": "http://yancheng.ganji.com/",
+        "parentid": 11,
+        "priority": 100,
+        "longitude": "120.13",
+        "latitude": "33.38",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 320900
+    }
+},
+{
+    "model": "general.city",
+    "pk": 116,
+    "fields": {
+        "name": "\u626c\u5dde",
+        "slug": "yangzhou",
+        "pinyin": "yangzhou",
+        "quhao": "0514",
+        "url": "http://yangzhou.ganji.com/",
+        "parentid": 11,
+        "priority": 100,
+        "longitude": "119.26",
+        "latitude": "32.23",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 321000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 115,
+    "fields": {
+        "name": "\u5357\u901a",
+        "slug": "nantong",
+        "pinyin": "nantong",
+        "quhao": "0513",
+        "url": "http://nantong.ganji.com/",
+        "parentid": 11,
+        "priority": 100,
+        "longitude": "120.51",
+        "latitude": "32.01",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 320600
+    }
+},
+{
+    "model": "general.city",
+    "pk": 114,
+    "fields": {
+        "name": "\u82cf\u5dde",
+        "slug": "jssuzhou",
+        "pinyin": "suzhou",
+        "quhao": "0512",
+        "url": "http://su.ganji.com/",
+        "parentid": 11,
+        "priority": 150,
+        "longitude": "120.37",
+        "latitude": "31.19",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 320500
+    }
+},
+{
+    "model": "general.city",
+    "pk": 113,
+    "fields": {
+        "name": "\u9547\u6c5f",
+        "slug": "zhenjiang",
+        "pinyin": "zhenjiang",
+        "quhao": "0511",
+        "url": "http://zhenjiang.ganji.com/",
+        "parentid": 11,
+        "priority": 50,
+        "longitude": "119.27",
+        "latitude": "32.11",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 321100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 112,
+    "fields": {
+        "name": "\u5357\u4eac",
+        "slug": "nj",
+        "pinyin": "nanjing",
+        "quhao": "025",
+        "url": "http://nj.ganji.com/",
+        "parentid": 11,
+        "priority": 150,
+        "longitude": "118.46",
+        "latitude": "32.03",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 320100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 111,
+    "fields": {
+        "name": "\u53cc\u9e2d\u5c71",
+        "slug": "shuangyashan",
+        "pinyin": "shuangyashan",
+        "quhao": "0469",
+        "url": "http://shuangyashan.ganji.com/",
+        "parentid": 10,
+        "priority": 50,
+        "longitude": "131.11",
+        "latitude": "46.38",
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 230500
+    }
+},
+{
+    "model": "general.city",
+    "pk": 110,
+    "fields": {
+        "name": "\u9e64\u5c97",
+        "slug": "hegang",
+        "pinyin": "hegang",
+        "quhao": "0468",
+        "url": "http://hegang.ganji.com/",
+        "parentid": 10,
+        "priority": 50,
+        "longitude": "130.16",
+        "latitude": "47.20",
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 230400
+    }
+},
+{
+    "model": "general.city",
+    "pk": 109,
+    "fields": {
+        "name": "\u9e21\u897f",
+        "slug": "jixi",
+        "pinyin": "jixi",
+        "quhao": "0467",
+        "url": "http://jixi.ganji.com/",
+        "parentid": 10,
+        "priority": 50,
+        "longitude": "130.57",
+        "latitude": "45.17",
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 230300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 108,
+    "fields": {
+        "name": "\u4e03\u53f0\u6cb3",
+        "slug": "qitaihe",
+        "pinyin": "qitaihe",
+        "quhao": "0464",
+        "url": "http://qitaihe.ganji.com/",
+        "parentid": 10,
+        "priority": 50,
+        "longitude": "130.49",
+        "latitude": "45.48",
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 230900
+    }
+},
+{
+    "model": "general.city",
+    "pk": 107,
+    "fields": {
+        "name": "\u5927\u5e86",
+        "slug": "daqing",
+        "pinyin": "daqing",
+        "quhao": "0459",
+        "url": "http://daqing.ganji.com/",
+        "parentid": 10,
+        "priority": 100,
+        "longitude": "125.01",
+        "latitude": "46.36",
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 230600
+    }
+},
+{
+    "model": "general.city",
+    "pk": 106,
+    "fields": {
+        "name": "\u4f0a\u6625",
+        "slug": "hljyichun",
+        "pinyin": "yichun",
+        "quhao": "0458",
+        "url": "http://hljyichun.ganji.com/",
+        "parentid": 10,
+        "priority": 50,
+        "longitude": "128.56",
+        "latitude": "47.42",
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 230700
+    }
+},
+{
+    "model": "general.city",
+    "pk": 105,
+    "fields": {
+        "name": "\u5927\u5174\u5b89\u5cad",
+        "slug": "daxinganling",
+        "pinyin": "daxinganling",
+        "quhao": "0457",
+        "url": "http://daxinganling.ganji.com/",
+        "parentid": 10,
+        "priority": 50,
+        "longitude": "124.40",
+        "latitude": "51.66",
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 232700
+    }
+},
+{
+    "model": "general.city",
+    "pk": 104,
+    "fields": {
+        "name": "\u9ed1\u6cb3",
+        "slug": "heihe",
+        "pinyin": "heihe",
+        "quhao": "0456",
+        "url": "http://heihe.ganji.com/",
+        "parentid": 10,
+        "priority": 50,
+        "longitude": "127.29",
+        "latitude": "50.14",
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 231100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 103,
+    "fields": {
+        "name": "\u7ee5\u5316",
+        "slug": "suihua",
+        "pinyin": "suihua",
+        "quhao": "0455",
+        "url": "http://suihua.ganji.com/",
+        "parentid": 10,
+        "priority": 50,
+        "longitude": "126.59",
+        "latitude": "46.38",
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 231200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 102,
+    "fields": {
+        "name": "\u4f73\u6728\u65af",
+        "slug": "jiamusi",
+        "pinyin": "jiamusi",
+        "quhao": "0454",
+        "url": "http://jiamusi.ganji.com/",
+        "parentid": 10,
+        "priority": 50,
+        "longitude": "130.22",
+        "latitude": "46.47",
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 230800
+    }
+},
+{
+    "model": "general.city",
+    "pk": 101,
+    "fields": {
+        "name": "\u7261\u4e39\u6c5f",
+        "slug": "mudanjiang",
+        "pinyin": "mudanjiang",
+        "quhao": "0453",
+        "url": "http://mudanjiang.ganji.com/",
+        "parentid": 10,
+        "priority": 50,
+        "longitude": "129.36",
+        "latitude": "44.35",
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 231000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 100,
+    "fields": {
+        "name": "\u9f50\u9f50\u54c8\u5c14",
+        "slug": "qiqihaer",
+        "pinyin": "qiqihaer",
+        "quhao": "0452",
+        "url": "http://qiqihaer.ganji.com/",
+        "parentid": 10,
+        "priority": 50,
+        "longitude": "123.57",
+        "latitude": "47.20",
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 230200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 99,
+    "fields": {
+        "name": "\u54c8\u5c14\u6ee8",
+        "slug": "hrb",
+        "pinyin": "haerbin",
+        "quhao": "0451",
+        "url": "http://hrb.ganji.com/",
+        "parentid": 10,
+        "priority": 100,
+        "longitude": "126.36",
+        "latitude": "45.44",
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 230100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 98,
+    "fields": {
+        "name": "\u767d\u5c71",
+        "slug": "baishan",
+        "pinyin": "baishan",
+        "quhao": "0439",
+        "url": "http://baishan.ganji.com/",
+        "parentid": 9,
+        "priority": 50,
+        "longitude": "126.26",
+        "latitude": "41.56",
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 220600
+    }
+},
+{
+    "model": "general.city",
+    "pk": 97,
+    "fields": {
+        "name": "\u677e\u539f",
+        "slug": "songyuan",
+        "pinyin": "songyuan",
+        "quhao": "0438",
+        "url": "http://songyuan.ganji.com/",
+        "parentid": 9,
+        "priority": 50,
+        "longitude": "124.49",
+        "latitude": "45.11",
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 220700
+    }
+},
+{
+    "model": "general.city",
+    "pk": 96,
+    "fields": {
+        "name": "\u8fbd\u6e90",
+        "slug": "liaoyuan",
+        "pinyin": "liaoyuan",
+        "quhao": "0437",
+        "url": "http://liaoyuan.ganji.com/",
+        "parentid": 9,
+        "priority": 50,
+        "longitude": "125.09",
+        "latitude": "42.54",
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 220400
+    }
+},
+{
+    "model": "general.city",
+    "pk": 95,
+    "fields": {
+        "name": "\u767d\u57ce",
+        "slug": "baicheng",
+        "pinyin": "baicheng",
+        "quhao": "0436",
+        "url": "http://baicheng.ganji.com/",
+        "parentid": 9,
+        "priority": 50,
+        "longitude": "122.50",
+        "latitude": "45.38",
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 220800
+    }
+},
+{
+    "model": "general.city",
+    "pk": 94,
+    "fields": {
+        "name": "\u901a\u5316",
+        "slug": "tonghua",
+        "pinyin": "tonghua",
+        "quhao": "0435",
+        "url": "http://tonghua.ganji.com/",
+        "parentid": 9,
+        "priority": 50,
+        "longitude": "125.56",
+        "latitude": "41.43",
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 220500
+    }
+},
+{
+    "model": "general.city",
+    "pk": 93,
+    "fields": {
+        "name": "\u56db\u5e73",
+        "slug": "siping",
+        "pinyin": "siping",
+        "quhao": "0434",
+        "url": "http://siping.ganji.com/",
+        "parentid": 9,
+        "priority": 50,
+        "longitude": "124.22",
+        "latitude": "43.10",
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 220300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 92,
+    "fields": {
+        "name": "\u5ef6\u8fb9",
+        "slug": "yanbian",
+        "pinyin": "yanbian",
+        "quhao": "0433",
+        "url": "http://yanbian.ganji.com/",
+        "parentid": 9,
+        "priority": 50,
+        "longitude": "129.50",
+        "latitude": "42.90",
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 222400
+    }
+},
+{
+    "model": "general.city",
+    "pk": 91,
+    "fields": {
+        "name": "\u5409\u6797",
+        "slug": "jilin",
+        "pinyin": "jilin",
+        "quhao": "0432",
+        "url": "http://jilin.ganji.com/",
+        "parentid": 9,
+        "priority": 50,
+        "longitude": "126.33",
+        "latitude": "43.52",
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 220200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 90,
+    "fields": {
+        "name": "\u957f\u6625",
+        "slug": "cc",
+        "pinyin": "changchun",
+        "quhao": "0431",
+        "url": "http://cc.ganji.com/",
+        "parentid": 9,
+        "priority": 100,
+        "longitude": "125.19",
+        "latitude": "43.54",
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 220100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 89,
+    "fields": {
+        "name": "\u846b\u82a6\u5c9b",
+        "slug": "huludao",
+        "pinyin": "huludao",
+        "quhao": "0429",
+        "url": "http://huludao.ganji.com/",
+        "parentid": 8,
+        "priority": 50,
+        "longitude": "120.51",
+        "latitude": "40.45",
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 211400
+    }
+},
+{
+    "model": "general.city",
+    "pk": 88,
+    "fields": {
+        "name": "\u76d8\u9526",
+        "slug": "panjin",
+        "pinyin": "panjin",
+        "quhao": "0427",
+        "url": "http://panjin.ganji.com/",
+        "parentid": 8,
+        "priority": 50,
+        "longitude": "122.03",
+        "latitude": "41.07",
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 211100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 87,
+    "fields": {
+        "name": "\u671d\u9633",
+        "slug": "chaoyang",
+        "pinyin": "chaoyang",
+        "quhao": "0421",
+        "url": "",
+        "parentid": 8,
+        "priority": 50,
+        "longitude": "120.27",
+        "latitude": "41.34",
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 211300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 86,
+    "fields": {
+        "name": "\u94c1\u5cad",
+        "slug": "tieling",
+        "pinyin": "tieling",
+        "quhao": "0410",
+        "url": "http://tieling.ganji.com/",
+        "parentid": 8,
+        "priority": 50,
+        "longitude": "123.51",
+        "latitude": "42.18",
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 211200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 85,
+    "fields": {
+        "name": "\u8fbd\u9633",
+        "slug": "liaoyang",
+        "pinyin": "liaoyang",
+        "quhao": "0419",
+        "url": "http://liaoyang.ganji.com/",
+        "parentid": 8,
+        "priority": 50,
+        "longitude": "123.12",
+        "latitude": "41.16",
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 211000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 84,
+    "fields": {
+        "name": "\u961c\u65b0",
+        "slug": "fuxin",
+        "pinyin": "fuxin",
+        "quhao": "0418",
+        "url": "http://fuxin.ganji.com/",
+        "parentid": 8,
+        "priority": 50,
+        "longitude": "121.39",
+        "latitude": "42.01",
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 210900
+    }
+},
+{
+    "model": "general.city",
+    "pk": 83,
+    "fields": {
+        "name": "\u8425\u53e3",
+        "slug": "yingkou",
+        "pinyin": "yingkou",
+        "quhao": "0417",
+        "url": "http://yingkou.ganji.com/",
+        "parentid": 8,
+        "priority": 50,
+        "longitude": "122.13",
+        "latitude": "40.39",
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 210800
+    }
+},
+{
+    "model": "general.city",
+    "pk": 82,
+    "fields": {
+        "name": "\u9526\u5dde",
+        "slug": "jinzhou",
+        "pinyin": "jinzhou",
+        "quhao": "0416",
+        "url": "http://jinzhou.ganji.com/",
+        "parentid": 8,
+        "priority": 50,
+        "longitude": "121.09",
+        "latitude": "41.07",
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 210700
+    }
+},
+{
+    "model": "general.city",
+    "pk": 81,
+    "fields": {
+        "name": "\u4e39\u4e1c",
+        "slug": "dandong",
+        "pinyin": "dandong",
+        "quhao": "0415",
+        "url": "http://dandong.ganji.com/",
+        "parentid": 8,
+        "priority": 50,
+        "longitude": "124.22",
+        "latitude": "40.08",
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 210600
+    }
+},
+{
+    "model": "general.city",
+    "pk": 80,
+    "fields": {
+        "name": "\u672c\u6eaa",
+        "slug": "benxi",
+        "pinyin": "benxi",
+        "quhao": "0414",
+        "url": "http://benxi.ganji.com/",
+        "parentid": 8,
+        "priority": 50,
+        "longitude": "123.46",
+        "latitude": "41.18",
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 210500
+    }
+},
+{
+    "model": "general.city",
+    "pk": 79,
+    "fields": {
+        "name": "\u629a\u987a",
+        "slug": "fushun",
+        "pinyin": "fushun",
+        "quhao": "0413",
+        "url": "http://fushun.ganji.com/",
+        "parentid": 8,
+        "priority": 50,
+        "longitude": "123.54",
+        "latitude": "41.51",
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 210400
+    }
+},
+{
+    "model": "general.city",
+    "pk": 78,
+    "fields": {
+        "name": "\u978d\u5c71",
+        "slug": "anshan",
+        "pinyin": "anshan",
+        "quhao": "0412",
+        "url": "http://anshan.ganji.com/",
+        "parentid": 8,
+        "priority": 50,
+        "longitude": "123.00",
+        "latitude": "41.07",
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 210300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 77,
+    "fields": {
+        "name": "\u5927\u8fde",
+        "slug": "dl",
+        "pinyin": "dalian",
+        "quhao": "0411",
+        "url": "http://dl.ganji.com/",
+        "parentid": 8,
+        "priority": 150,
+        "longitude": "121.36",
+        "latitude": "38.55",
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 210200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 76,
+    "fields": {
+        "name": "\u6c88\u9633",
+        "slug": "sy",
+        "pinyin": "shenyang",
+        "quhao": "024",
+        "url": "http://sy.ganji.com/",
+        "parentid": 8,
+        "priority": 150,
+        "longitude": "123.25",
+        "latitude": "41.48",
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 210100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 75,
+    "fields": {
+        "name": "\u963f\u62c9\u5584",
+        "slug": "alashan",
+        "pinyin": "alashan",
+        "quhao": "0483",
+        "url": "http://alashan.ganji.com/",
+        "parentid": 7,
+        "priority": 50,
+        "longitude": "105.66",
+        "latitude": "38.83",
+        "area": "\u534e\u5317",
+        "city_administration_number": 152900
+    }
+},
+{
+    "model": "general.city",
+    "pk": 74,
+    "fields": {
+        "name": "\u5174\u5b89",
+        "slug": "xingan",
+        "pinyin": "xingan",
+        "quhao": "0482",
+        "url": "http://xingan.ganji.com/",
+        "parentid": 7,
+        "priority": 50,
+        "longitude": "122.06",
+        "latitude": "46.06",
+        "area": "\u534e\u5317",
+        "city_administration_number": 152200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 73,
+    "fields": {
+        "name": "\u547c\u4f26\u8d1d\u5c14",
+        "slug": "hulunbeier",
+        "pinyin": "hulunbeier",
+        "quhao": "0470",
+        "url": "http://hulunbeier.ganji.com/",
+        "parentid": 7,
+        "priority": 50,
+        "longitude": "119.74",
+        "latitude": "49.20",
+        "area": "\u534e\u5317",
+        "city_administration_number": 150700
+    }
+},
+{
+    "model": "general.city",
+    "pk": 72,
+    "fields": {
+        "name": "\u9521\u6797\u90ed\u52d2",
+        "slug": "xilinguole",
+        "pinyin": "xilinguole",
+        "quhao": "0479",
+        "url": "http://xilinguole.ganji.com/",
+        "parentid": 7,
+        "priority": 50,
+        "longitude": "116.05",
+        "latitude": "43.94",
+        "area": "\u534e\u5317",
+        "city_administration_number": 152500
+    }
+},
+{
+    "model": "general.city",
+    "pk": 71,
+    "fields": {
+        "name": "\u5df4\u5f66\u6dd6\u5c14",
+        "slug": "bayannaoer",
+        "pinyin": "bayannaoer",
+        "quhao": "0478",
+        "url": "http://bayannaoer.ganji.com/",
+        "parentid": 7,
+        "priority": 50,
+        "longitude": "107.39",
+        "latitude": "40.74",
+        "area": "\u534e\u5317",
+        "city_administration_number": 150800
+    }
+},
+{
+    "model": "general.city",
+    "pk": 70,
+    "fields": {
+        "name": "\u9102\u5c14\u591a\u65af",
+        "slug": "eerduosi",
+        "pinyin": "eerduosi",
+        "quhao": "0477",
+        "url": "http://eerduosi.ganji.com/",
+        "parentid": 7,
+        "priority": 100,
+        "longitude": "109.99",
+        "latitude": "39.80",
+        "area": "\u534e\u5317",
+        "city_administration_number": 150600
+    }
+},
+{
+    "model": "general.city",
+    "pk": 69,
+    "fields": {
+        "name": "\u8d64\u5cf0",
+        "slug": "chifeng",
+        "pinyin": "chifeng",
+        "quhao": "0476",
+        "url": "http://chifeng.ganji.com/",
+        "parentid": 7,
+        "priority": 50,
+        "longitude": "118.58",
+        "latitude": "42.17",
+        "area": "\u534e\u5317",
+        "city_administration_number": 150400
+    }
+},
+{
+    "model": "general.city",
+    "pk": 68,
+    "fields": {
+        "name": "\u901a\u8fbd",
+        "slug": "tongliao",
+        "pinyin": "liaotong",
+        "quhao": "0475",
+        "url": "http://tongliao.ganji.com/",
+        "parentid": 7,
+        "priority": 50,
+        "longitude": "122.16",
+        "latitude": "43.37",
+        "area": "\u534e\u5317",
+        "city_administration_number": 150500
+    }
+},
+{
+    "model": "general.city",
+    "pk": 67,
+    "fields": {
+        "name": "\u4e4c\u5170\u5bdf\u5e03",
+        "slug": "wulanchabu",
+        "pinyin": "wulanchabu",
+        "quhao": "0474",
+        "url": "http://wulanchabu.ganji.com/",
+        "parentid": 7,
+        "priority": 50,
+        "longitude": "113.10",
+        "latitude": "41.02",
+        "area": "\u534e\u5317",
+        "city_administration_number": 150900
+    }
+},
+{
+    "model": "general.city",
+    "pk": 66,
+    "fields": {
+        "name": "\u4e4c\u6d77",
+        "slug": "wuhai",
+        "pinyin": "wuhai",
+        "quhao": "0473",
+        "url": "http://wuhai.ganji.com/",
+        "parentid": 7,
+        "priority": 50,
+        "longitude": "106.48",
+        "latitude": "39.40",
+        "area": "\u534e\u5317",
+        "city_administration_number": 150300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 65,
+    "fields": {
+        "name": "\u5305\u5934",
+        "slug": "baotou",
+        "pinyin": "baotou",
+        "quhao": "0472",
+        "url": "http://baotou.ganji.com/",
+        "parentid": 7,
+        "priority": 100,
+        "longitude": "109.49",
+        "latitude": "40.39",
+        "area": "\u534e\u5317",
+        "city_administration_number": 150200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 64,
+    "fields": {
+        "name": "\u547c\u548c\u6d69\u7279",
+        "slug": "nmg",
+        "pinyin": "huhehaote",
+        "quhao": "0471",
+        "url": "http://nmg.ganji.com/",
+        "parentid": 7,
+        "priority": 50,
+        "longitude": "111.41",
+        "latitude": "40.48",
+        "area": "\u534e\u5317",
+        "city_administration_number": 150100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 63,
+    "fields": {
+        "name": "\u6714\u5dde",
+        "slug": "shuozhou",
+        "pinyin": "shuozhou",
+        "quhao": "0349",
+        "url": "http://shuozhou.ganji.com/",
+        "parentid": 6,
+        "priority": 50,
+        "longitude": "112.26",
+        "latitude": "39.19",
+        "area": "\u534e\u5317",
+        "city_administration_number": 140600
+    }
+},
+{
+    "model": "general.city",
+    "pk": 62,
+    "fields": {
+        "name": "\u5ffb\u5dde",
+        "slug": "xinzhou",
+        "pinyin": "xinzhou",
+        "quhao": "0350",
+        "url": "http://xinzhou.ganji.com/",
+        "parentid": 6,
+        "priority": 50,
+        "longitude": "112.43",
+        "latitude": "38.24",
+        "area": "\u534e\u5317",
+        "city_administration_number": 140900
+    }
+},
+{
+    "model": "general.city",
+    "pk": 61,
+    "fields": {
+        "name": "\u8fd0\u57ce",
+        "slug": "yuncheng",
+        "pinyin": "yuncheng",
+        "quhao": "0359",
+        "url": "http://yuncheng.ganji.com/",
+        "parentid": 6,
+        "priority": 50,
+        "longitude": "110.59",
+        "latitude": "35.02",
+        "area": "\u534e\u5317",
+        "city_administration_number": 140800
+    }
+},
+{
+    "model": "general.city",
+    "pk": 60,
+    "fields": {
+        "name": "\u5415\u6881",
+        "slug": "lvliang",
+        "pinyin": "lvliang",
+        "quhao": "0358",
+        "url": "http://lvliang.ganji.com/",
+        "parentid": 6,
+        "priority": 50,
+        "longitude": "111.13",
+        "latitude": "37.52",
+        "area": "\u534e\u5317",
+        "city_administration_number": 141100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 59,
+    "fields": {
+        "name": "\u4e34\u6c7e",
+        "slug": "linfen",
+        "pinyin": "linfen",
+        "quhao": "0357",
+        "url": "http://linfen.ganji.com/",
+        "parentid": 6,
+        "priority": 50,
+        "longitude": "111.31",
+        "latitude": "36.05",
+        "area": "\u534e\u5317",
+        "city_administration_number": 141000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 58,
+    "fields": {
+        "name": "\u664b\u57ce",
+        "slug": "jincheng",
+        "pinyin": "jincheng",
+        "quhao": "0356",
+        "url": "http://jincheng.ganji.com/",
+        "parentid": 6,
+        "priority": 50,
+        "longitude": "112.51",
+        "latitude": "35.30",
+        "area": "\u534e\u5317",
+        "city_administration_number": 140500
+    }
+},
+{
+    "model": "general.city",
+    "pk": 57,
+    "fields": {
+        "name": "\u957f\u6cbb",
+        "slug": "changzhi",
+        "pinyin": "changzhi",
+        "quhao": "0355",
+        "url": "http://changzhi.ganji.com/",
+        "parentid": 6,
+        "priority": 50,
+        "longitude": "113.06",
+        "latitude": "36.11",
+        "area": "\u534e\u5317",
+        "city_administration_number": 140400
+    }
+},
+{
+    "model": "general.city",
+    "pk": 56,
+    "fields": {
+        "name": "\u664b\u4e2d",
+        "slug": "jinzhong",
+        "pinyin": "jinzhong",
+        "quhao": "0354",
+        "url": "http://jinzhong.ganji.com/",
+        "parentid": 6,
+        "priority": 50,
+        "longitude": "112.72",
+        "latitude": "37.68",
+        "area": "\u534e\u5317",
+        "city_administration_number": 140700
+    }
+},
+{
+    "model": "general.city",
+    "pk": 55,
+    "fields": {
+        "name": "\u9633\u6cc9",
+        "slug": "yangquan",
+        "pinyin": "yangquan",
+        "quhao": "0353",
+        "url": "http://yangquan.ganji.com/",
+        "parentid": 6,
+        "priority": 50,
+        "longitude": "113.34",
+        "latitude": "37.51",
+        "area": "\u534e\u5317",
+        "city_administration_number": 140300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 54,
+    "fields": {
+        "name": "\u5927\u540c",
+        "slug": "datong",
+        "pinyin": "datong",
+        "quhao": "0352",
+        "url": "http://datong.ganji.com/",
+        "parentid": 6,
+        "priority": 50,
+        "longitude": "113.17",
+        "latitude": "40.06",
+        "area": "\u534e\u5317",
+        "city_administration_number": 140200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 53,
+    "fields": {
+        "name": "\u592a\u539f",
+        "slug": "ty",
+        "pinyin": "taiyuan",
+        "quhao": "0351",
+        "url": "http://ty.ganji.com/",
+        "parentid": 6,
+        "priority": 50,
+        "longitude": "112.33",
+        "latitude": "37.54",
+        "area": "\u534e\u5317",
+        "city_administration_number": 140100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 52,
+    "fields": {
+        "name": "\u79e6\u7687\u5c9b",
+        "slug": "qinhuangdao",
+        "pinyin": "qinhuangdao",
+        "quhao": "0335",
+        "url": "http://qinhuangdao.ganji.com/",
+        "parentid": 5,
+        "priority": 50,
+        "longitude": "119.35",
+        "latitude": "39.55",
+        "area": "\u534e\u5317",
+        "city_administration_number": 130300
+    }
+},
+{
+    "model": "general.city",
+    "pk": 51,
+    "fields": {
+        "name": "\u90af\u90f8",
+        "slug": "handan",
+        "pinyin": "handan",
+        "quhao": "0310",
+        "url": "http://handan.ganji.com/",
+        "parentid": 5,
+        "priority": 100,
+        "longitude": "114.28",
+        "latitude": "36.36",
+        "area": "\u534e\u5317",
+        "city_administration_number": 130400
+    }
+},
+{
+    "model": "general.city",
+    "pk": 50,
+    "fields": {
+        "name": "\u90a2\u53f0",
+        "slug": "xingtai",
+        "pinyin": "xingtai",
+        "quhao": "0319",
+        "url": "http://xingtai.ganji.com/",
+        "parentid": 5,
+        "priority": 50,
+        "longitude": "114.30",
+        "latitude": "37.04",
+        "area": "\u534e\u5317",
+        "city_administration_number": 130500
+    }
+},
+{
+    "model": "general.city",
+    "pk": 49,
+    "fields": {
+        "name": "\u8861\u6c34",
+        "slug": "hengshui",
+        "pinyin": "hengshui",
+        "quhao": "0318",
+        "url": "http://hengshui.ganji.com/",
+        "parentid": 5,
+        "priority": 50,
+        "longitude": "115.42",
+        "latitude": "37.44",
+        "area": "\u534e\u5317",
+        "city_administration_number": 131100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 48,
+    "fields": {
+        "name": "\u6ca7\u5dde",
+        "slug": "cangzhou",
+        "pinyin": "cangzhou",
+        "quhao": "0317",
+        "url": "http://cangzhou.ganji.com/",
+        "parentid": 5,
+        "priority": 50,
+        "longitude": "116.52",
+        "latitude": "38.18",
+        "area": "\u534e\u5317",
+        "city_administration_number": 130900
+    }
+},
+{
+    "model": "general.city",
+    "pk": 47,
+    "fields": {
+        "name": "\u5eca\u574a",
+        "slug": "langfang",
+        "pinyin": "langfang",
+        "quhao": "0316",
+        "url": "http://langfang.ganji.com/",
+        "parentid": 5,
+        "priority": 50,
+        "longitude": "116.68",
+        "latitude": "39.52",
+        "area": "\u534e\u5317",
+        "city_administration_number": 131000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 46,
+    "fields": {
+        "name": "\u5510\u5c71",
+        "slug": "tangshan",
+        "pinyin": "tangshan",
+        "quhao": "0315",
+        "url": "http://tangshan.ganji.com/",
+        "parentid": 5,
+        "priority": 100,
+        "longitude": "118.11",
+        "latitude": "39.36",
+        "area": "\u534e\u5317",
+        "city_administration_number": 130200
+    }
+},
+{
+    "model": "general.city",
+    "pk": 45,
+    "fields": {
+        "name": "\u627f\u5fb7",
+        "slug": "chengde",
+        "pinyin": "chengde",
+        "quhao": "0314",
+        "url": "http://chengde.ganji.com/",
+        "parentid": 5,
+        "priority": 50,
+        "longitude": "117.57",
+        "latitude": "40.59",
+        "area": "\u534e\u5317",
+        "city_administration_number": 130800
+    }
+},
+{
+    "model": "general.city",
+    "pk": 44,
+    "fields": {
+        "name": "\u5f20\u5bb6\u53e3",
+        "slug": "zhangjiakou",
+        "pinyin": "zhangjiakou",
+        "quhao": "0313",
+        "url": "http://zhangjiakou.ganji.com/",
+        "parentid": 5,
+        "priority": 50,
+        "longitude": "114.53",
+        "latitude": "40.48",
+        "area": "\u534e\u5317",
+        "city_administration_number": 130700
+    }
+},
+{
+    "model": "general.city",
+    "pk": 43,
+    "fields": {
+        "name": "\u4fdd\u5b9a",
+        "slug": "baoding",
+        "pinyin": "baoding",
+        "quhao": "0312",
+        "url": "http://baoding.ganji.com/",
+        "parentid": 5,
+        "priority": 50,
+        "longitude": "115.30",
+        "latitude": "38.51",
+        "area": "\u534e\u5317",
+        "city_administration_number": 130600
+    }
+},
+{
+    "model": "general.city",
+    "pk": 42,
+    "fields": {
+        "name": "\u77f3\u5bb6\u5e84",
+        "slug": "sjz",
+        "pinyin": "shijiazhuang",
+        "quhao": "0311",
+        "url": "http://sjz.ganji.com/",
+        "parentid": 5,
+        "priority": 100,
+        "longitude": "114.30",
+        "latitude": "38.02",
+        "area": "\u534e\u5317",
+        "city_administration_number": 130100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 41,
+    "fields": {
+        "name": "\u53f0\u6e7e",
+        "slug": "taiwan",
+        "pinyin": "taiwan",
+        "quhao": "00886",
+        "url": "",
+        "parentid": 34,
+        "priority": 50,
+        "longitude": "121.30",
+        "latitude": "25.03",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 710100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 40,
+    "fields": {
+        "name": "\u6fb3\u95e8",
+        "slug": "aomen",
+        "pinyin": "aomen",
+        "quhao": "00853",
+        "url": "",
+        "parentid": 33,
+        "priority": 50,
+        "longitude": "115.07",
+        "latitude": "21.33",
+        "area": "\u534e\u5357",
+        "city_administration_number": 820100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 39,
+    "fields": {
+        "name": "\u9999\u6e2f",
+        "slug": "xianggang",
+        "pinyin": "xianggang",
+        "quhao": "00852",
+        "url": "",
+        "parentid": 32,
+        "priority": 50,
+        "longitude": "115.12",
+        "latitude": "21.23",
+        "area": "\u534e\u5357",
+        "city_administration_number": 810100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 38,
+    "fields": {
+        "name": "\u91cd\u5e86",
+        "slug": "cq",
+        "pinyin": "chongqing",
+        "quhao": "023",
+        "url": "http://cq.ganji.com/",
+        "parentid": 4,
+        "priority": 150,
+        "longitude": "106.33",
+        "latitude": "29.35",
+        "area": "\u897f\u5357",
+        "city_administration_number": 500100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 37,
+    "fields": {
+        "name": "\u5929\u6d25",
+        "slug": "tj",
+        "pinyin": "tianjin",
+        "quhao": "022",
+        "url": "http://tj.ganji.com/",
+        "parentid": 3,
+        "priority": 200,
+        "longitude": "117.12",
+        "latitude": "39.02",
+        "area": "\u534e\u5317",
+        "city_administration_number": 120100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 36,
+    "fields": {
+        "name": "\u4e0a\u6d77",
+        "slug": "sh",
+        "pinyin": "shanghai",
+        "quhao": "021",
+        "url": "http://sh.ganji.com/",
+        "parentid": 2,
+        "priority": 200,
+        "longitude": "121.29",
+        "latitude": "31.14",
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 310100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 35,
+    "fields": {
+        "name": "\u5317\u4eac",
+        "slug": "bj",
+        "pinyin": "beijing",
+        "quhao": "010",
+        "url": "http://bj.ganji.com/",
+        "parentid": 1,
+        "priority": 200,
+        "longitude": "116.24",
+        "latitude": "39.55",
+        "area": "\u534e\u5317",
+        "city_administration_number": 110100
+    }
+},
+{
+    "model": "general.city",
+    "pk": 34,
+    "fields": {
+        "name": "\u53f0\u6e7e",
+        "slug": "taiwan",
+        "pinyin": "taiwan",
+        "quhao": "",
+        "url": "",
+        "parentid": null,
+        "priority": null,
+        "longitude": null,
+        "latitude": null,
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 710000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 33,
+    "fields": {
+        "name": "\u6fb3\u95e8",
+        "slug": "aomen",
+        "pinyin": "aomen",
+        "quhao": "",
+        "url": "",
+        "parentid": null,
+        "priority": null,
+        "longitude": null,
+        "latitude": null,
+        "area": "\u534e\u5357",
+        "city_administration_number": 820000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 32,
+    "fields": {
+        "name": "\u9999\u6e2f",
+        "slug": "xianggang",
+        "pinyin": "xianggang",
+        "quhao": "",
+        "url": "",
+        "parentid": null,
+        "priority": null,
+        "longitude": null,
+        "latitude": null,
+        "area": "\u534e\u5357",
+        "city_administration_number": 810000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 31,
+    "fields": {
+        "name": "\u65b0\u7586",
+        "slug": "xinjiang",
+        "pinyin": "xinjiang",
+        "quhao": "",
+        "url": "",
+        "parentid": null,
+        "priority": null,
+        "longitude": null,
+        "latitude": null,
+        "area": "\u897f\u5317",
+        "city_administration_number": 650000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 30,
+    "fields": {
+        "name": "\u9752\u6d77",
+        "slug": "qinghai",
+        "pinyin": "qinghai",
+        "quhao": "",
+        "url": "",
+        "parentid": null,
+        "priority": null,
+        "longitude": null,
+        "latitude": null,
+        "area": "\u897f\u5317",
+        "city_administration_number": 630000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 29,
+    "fields": {
+        "name": "\u5b81\u590f",
+        "slug": "ningxia",
+        "pinyin": "ningxia",
+        "quhao": "",
+        "url": "",
+        "parentid": null,
+        "priority": null,
+        "longitude": null,
+        "latitude": null,
+        "area": "\u897f\u5317",
+        "city_administration_number": 640000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 28,
+    "fields": {
+        "name": "\u7518\u8083",
+        "slug": "gansu",
+        "pinyin": "gansu",
+        "quhao": "",
+        "url": "",
+        "parentid": null,
+        "priority": null,
+        "longitude": null,
+        "latitude": null,
+        "area": "\u897f\u5317",
+        "city_administration_number": 620000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 27,
+    "fields": {
+        "name": "\u9655\u897f",
+        "slug": "shanxi",
+        "pinyin": "shanxi",
+        "quhao": "",
+        "url": "",
+        "parentid": null,
+        "priority": null,
+        "longitude": null,
+        "latitude": null,
+        "area": "\u897f\u5317",
+        "city_administration_number": 610000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 26,
+    "fields": {
+        "name": "\u897f\u85cf",
+        "slug": "xizang",
+        "pinyin": "xizang",
+        "quhao": "",
+        "url": "",
+        "parentid": null,
+        "priority": null,
+        "longitude": null,
+        "latitude": null,
+        "area": "\u897f\u5357",
+        "city_administration_number": 540000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 25,
+    "fields": {
+        "name": "\u4e91\u5357",
+        "slug": "yunnan",
+        "pinyin": "yunnan",
+        "quhao": "",
+        "url": "",
+        "parentid": null,
+        "priority": null,
+        "longitude": null,
+        "latitude": null,
+        "area": "\u897f\u5357",
+        "city_administration_number": 530000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 24,
+    "fields": {
+        "name": "\u8d35\u5dde",
+        "slug": "guizhou",
+        "pinyin": "guizhou",
+        "quhao": "",
+        "url": "",
+        "parentid": null,
+        "priority": null,
+        "longitude": null,
+        "latitude": null,
+        "area": "\u897f\u5357",
+        "city_administration_number": 520000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 23,
+    "fields": {
+        "name": "\u56db\u5ddd",
+        "slug": "sichuan",
+        "pinyin": "sichuan",
+        "quhao": "",
+        "url": "",
+        "parentid": null,
+        "priority": null,
+        "longitude": null,
+        "latitude": null,
+        "area": "\u897f\u5357",
+        "city_administration_number": 510000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 22,
+    "fields": {
+        "name": "\u6d77\u5357",
+        "slug": "hainan",
+        "pinyin": "hainan",
+        "quhao": "",
+        "url": "",
+        "parentid": null,
+        "priority": null,
+        "longitude": null,
+        "latitude": null,
+        "area": "\u534e\u5357",
+        "city_administration_number": 460000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 21,
+    "fields": {
+        "name": "\u5e7f\u897f",
+        "slug": "guangxi",
+        "pinyin": "guangxi",
+        "quhao": "",
+        "url": "",
+        "parentid": null,
+        "priority": null,
+        "longitude": null,
+        "latitude": null,
+        "area": "\u534e\u5357",
+        "city_administration_number": 450000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 20,
+    "fields": {
+        "name": "\u5e7f\u4e1c",
+        "slug": "guangdong",
+        "pinyin": "guangdong",
+        "quhao": "",
+        "url": "",
+        "parentid": null,
+        "priority": null,
+        "longitude": null,
+        "latitude": null,
+        "area": "\u534e\u5357",
+        "city_administration_number": 440000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 19,
+    "fields": {
+        "name": "\u6e56\u5357",
+        "slug": "hunan",
+        "pinyin": "hunan",
+        "quhao": "",
+        "url": "",
+        "parentid": null,
+        "priority": null,
+        "longitude": null,
+        "latitude": null,
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 430000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 18,
+    "fields": {
+        "name": "\u6e56\u5317",
+        "slug": "hubei",
+        "pinyin": "hubei",
+        "quhao": "",
+        "url": "",
+        "parentid": null,
+        "priority": null,
+        "longitude": null,
+        "latitude": null,
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 420000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 17,
+    "fields": {
+        "name": "\u6cb3\u5357",
+        "slug": "henan",
+        "pinyin": "henan",
+        "quhao": "",
+        "url": "",
+        "parentid": null,
+        "priority": null,
+        "longitude": null,
+        "latitude": null,
+        "area": "\u534e\u4e2d",
+        "city_administration_number": 410000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 16,
+    "fields": {
+        "name": "\u5c71\u4e1c",
+        "slug": "shandong",
+        "pinyin": "shandong",
+        "quhao": "",
+        "url": "",
+        "parentid": null,
+        "priority": null,
+        "longitude": null,
+        "latitude": null,
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 370000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 15,
+    "fields": {
+        "name": "\u6c5f\u897f",
+        "slug": "jiangxi",
+        "pinyin": "jiangxi",
+        "quhao": "",
+        "url": "",
+        "parentid": null,
+        "priority": null,
+        "longitude": null,
+        "latitude": null,
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 360000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 14,
+    "fields": {
+        "name": "\u798f\u5efa",
+        "slug": "fujian",
+        "pinyin": "fujian",
+        "quhao": "",
+        "url": "",
+        "parentid": null,
+        "priority": null,
+        "longitude": null,
+        "latitude": null,
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 350000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 13,
+    "fields": {
+        "name": "\u5b89\u5fbd",
+        "slug": "anhui",
+        "pinyin": "anhui",
+        "quhao": "",
+        "url": "",
+        "parentid": null,
+        "priority": null,
+        "longitude": null,
+        "latitude": null,
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 340000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 12,
+    "fields": {
+        "name": "\u6d59\u6c5f",
+        "slug": "zhejiang",
+        "pinyin": "zhejiang",
+        "quhao": "",
+        "url": "",
+        "parentid": null,
+        "priority": null,
+        "longitude": null,
+        "latitude": null,
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 330000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 11,
+    "fields": {
+        "name": "\u6c5f\u82cf",
+        "slug": "jiangsu",
+        "pinyin": "jiangsu",
+        "quhao": "",
+        "url": "",
+        "parentid": null,
+        "priority": null,
+        "longitude": null,
+        "latitude": null,
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 320000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 10,
+    "fields": {
+        "name": "\u9ed1\u9f99\u6c5f",
+        "slug": "heilongjiang",
+        "pinyin": "heilongjiang",
+        "quhao": "",
+        "url": "",
+        "parentid": null,
+        "priority": null,
+        "longitude": null,
+        "latitude": null,
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 230000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 9,
+    "fields": {
+        "name": "\u5409\u6797",
+        "slug": "jilin",
+        "pinyin": "jilin",
+        "quhao": "",
+        "url": "",
+        "parentid": null,
+        "priority": null,
+        "longitude": null,
+        "latitude": null,
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 220000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 8,
+    "fields": {
+        "name": "\u8fbd\u5b81",
+        "slug": "liaoning",
+        "pinyin": "liaoning",
+        "quhao": "",
+        "url": "",
+        "parentid": null,
+        "priority": null,
+        "longitude": null,
+        "latitude": null,
+        "area": "\u4e1c\u5317",
+        "city_administration_number": 210000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 7,
+    "fields": {
+        "name": "\u5185\u8499\u53e4",
+        "slug": "neimenggu",
+        "pinyin": "neimenggu",
+        "quhao": "",
+        "url": "",
+        "parentid": null,
+        "priority": null,
+        "longitude": null,
+        "latitude": null,
+        "area": "\u534e\u5317",
+        "city_administration_number": 150000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 6,
+    "fields": {
+        "name": "\u5c71\u897f",
+        "slug": "shanxi",
+        "pinyin": "shanxi",
+        "quhao": "",
+        "url": "",
+        "parentid": null,
+        "priority": null,
+        "longitude": null,
+        "latitude": null,
+        "area": "\u534e\u5317",
+        "city_administration_number": 140000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 5,
+    "fields": {
+        "name": "\u6cb3\u5317",
+        "slug": "hebei",
+        "pinyin": "hebei",
+        "quhao": "",
+        "url": "",
+        "parentid": null,
+        "priority": null,
+        "longitude": null,
+        "latitude": null,
+        "area": "\u534e\u5317",
+        "city_administration_number": 130000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 4,
+    "fields": {
+        "name": "\u91cd\u5e86",
+        "slug": "chongqing",
+        "pinyin": "chongqing",
+        "quhao": "",
+        "url": "",
+        "parentid": null,
+        "priority": null,
+        "longitude": null,
+        "latitude": null,
+        "area": "\u897f\u5357",
+        "city_administration_number": 500000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 3,
+    "fields": {
+        "name": "\u5929\u6d25",
+        "slug": "tianjin",
+        "pinyin": "tianjin",
+        "quhao": "",
+        "url": "",
+        "parentid": null,
+        "priority": null,
+        "longitude": null,
+        "latitude": null,
+        "area": "\u534e\u5317",
+        "city_administration_number": 120000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 2,
+    "fields": {
+        "name": "\u4e0a\u6d77",
+        "slug": "shanghai",
+        "pinyin": "shanghai",
+        "quhao": "",
+        "url": "",
+        "parentid": null,
+        "priority": null,
+        "longitude": null,
+        "latitude": null,
+        "area": "\u534e\u4e1c",
+        "city_administration_number": 310000
+    }
+},
+{
+    "model": "general.city",
+    "pk": 1,
+    "fields": {
+        "name": "\u5317\u4eac",
+        "slug": "beijing",
+        "pinyin": "beijing",
+        "quhao": "",
+        "url": "",
+        "parentid": null,
+        "priority": null,
+        "longitude": null,
+        "latitude": null,
+        "area": "\u534e\u5317",
+        "city_administration_number": 110000
+    }
+}
+]

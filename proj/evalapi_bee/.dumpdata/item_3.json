@@ -1,0 +1,26 @@
+[
+{
+    "model": "category.category",
+    "pk": 940,
+    "fields": {
+        "name": "\u5947\u745eQQ3",
+        "first_letter": null,
+        "slug_global": null,
+        "slug": "qirui-qq3",
+        "parent": "chery",
+        "mum": "\u5947\u745e\u6c7d\u8f66",
+        "classified": "\u5fae\u578b\u8f66",
+        "keywords": ",qiruiQQ3,\u5947\u745eQQ3,\u5947\u745e,chery,\u5947\u745e\u6c7d\u8f66",
+        "logo_img": "0260fae66f28ab7a4cbc5467c2ec927f046cbbe3.jpg",
+        "thumbnail": "0260fae66f28ab7a4cbc5467c2ec927f046cbbe3.jpg?imageView2/1/w/160/h/80/",
+        "pinyin": "qiruiQQ3",
+        "status": "Y",
+        "attribute": "\u56fd\u4ea7",
+        "units": 28544,
+        "popular": "B",
+        "score": 0,
+        "alias": null,
+        "brand_area": null
+    }
+}
+]
