@@ -3,7 +3,7 @@ import os
 from dateutil.relativedelta import relativedelta
 # from valuate.conf import global_settings as gl
 
-DEBUG = bool(os.environ.get('DEBUG', 0))
+DEBUG = bool(os.environ.get('DEBUG', 1))
 if DEBUG:
     os.environ['VALUATE_RUNTIME_ENVIRONMENT'] = 'LOCAL'
 
