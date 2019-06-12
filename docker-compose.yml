@@ -1,32 +1,27 @@
 version: "3"
 services:
-  kong-dashboard:
-    image: "pgbi/kong-dashboard:v2"
+  evalapi_bee:
+    image: "evalapi_bee:latest"
     ports:
-      - ":8080"
-    command: $KONG_DASH_BOARD_PASS
-    labels:
-      aliyun.routing.port_8080: $KONG_DASH_BOARD_URL
-      hostname: kong-dashboard
+      - "80:80"
+    hostname: evalapi_bee
     networks:
-      - cluster-global-net
+      - kong-net
     deploy:
       mode: replicated
       replicas: 1
       resources:
         limits:
-        memory: 100M
-        cpus: '10'
+          memory: 600M
       update_config:
         parallelism: 1
         delay: 1s
       restart_policy:
         condition: any
         max_attempts: 3
-        delay: 2s
+        delay: 1s
       placement:
-        constraints:
-          - node.labels.category == infranstructure
+        constraints: [node.role == worker]
 networks:
-  cluster-global-net:
-  external: true
+  kong-net:
+    external: true
