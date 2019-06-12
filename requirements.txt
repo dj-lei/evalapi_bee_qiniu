@@ -7,7 +7,7 @@ flake8
 coverage
 tox
 django-choices==1.6.0
-valuate==5.1.6
+valuate==5.1.7
 monthdelta==0.9.1
 
 pymysql==0.7.2
