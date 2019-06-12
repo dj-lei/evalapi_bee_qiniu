@@ -1,7 +1,7 @@
 version: "3"
 services:
   evalapi_bee:
-    image: "evalapi_bee:latest"
+    image: "ldj6692240/evalapi_bee:latest"
     ports:
       - "80:80"
     hostname: evalapi_bee
