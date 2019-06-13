@@ -21,6 +21,6 @@ services:
         max_attempts: 3
         delay: 1s
       placement:
-        constraints: [node.role == worker]
+        constraints: [node.role == manager]
 networks:
   kong-net:
