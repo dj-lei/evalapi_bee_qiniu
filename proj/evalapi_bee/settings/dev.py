@@ -7,17 +7,17 @@ DATABASES = {
         "NAME": "pingjia",
         "USER": "pingjia",
         "PASSWORD": "De32wsxC",
-        "HOST": "101.200.229.249",
+        "HOST": "59.110.233.103",
         "PORT": "3306"
     },
-    'kong': {
-        "ENGINE": "django.db.backends.postgresql_psycopg2",
-        "NAME": "kong",
-        "USER": "gpj_dbuser",
-        "PASSWORD": "TEST_249_dbuser",
-        "HOST": "101.200.229.249",
-        "PORT": "5432"
-    }
+    # 'kong': {
+    #     "ENGINE": "django.db.backends.postgresql_psycopg2",
+    #     "NAME": "kong",
+    #     "USER": "gpj_dbuser",
+    #     "PASSWORD": "TEST_249_dbuser",
+    #     "HOST": "101.200.229.249",
+    #     "PORT": "5432"
+    # }
 }
 
 
