@@ -3,7 +3,7 @@ import os
 from dateutil.relativedelta import relativedelta
 # from valuate.conf import global_settings as gl
 
-DEBUG = bool(os.environ.get('DEBUG', 1))
+DEBUG = bool(os.environ.get('DEBUG', 0))
 if DEBUG:
     os.environ['VALUATE_RUNTIME_ENVIRONMENT'] = 'LOCAL'
 
@@ -99,15 +99,11 @@ class EvalService:
     def eval_deal_price(cls, model_detail_slug, city, mile, online_date, target_date):
         p = Predict()
         try:
-            import time
-            time1 = time.time()
             result = p.predict(
                 city=city, model_detail_slug=model_detail_slug,
                 reg_year=online_date.year, reg_month=online_date.month,
                 deal_year=target_date.year, deal_month=target_date.month, mile=mile
             )
-            time2 = time.time()
-            print('time:', time2-time1)
         except vexec.ApiParamsValueError as e:
             raise exc.EvalApiException(code=exc.VALUATION_ERROR_MAP[e.name])
 

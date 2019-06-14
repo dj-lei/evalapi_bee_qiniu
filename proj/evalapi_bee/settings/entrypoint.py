@@ -1,6 +1,6 @@
 import os
 
-OPS_DEBUG = os.environ.get('OPS_DEBUG', 0)
+OPS_DEBUG = os.environ.get('OPS_DEBUG', 1)
 OPS_DEBUG = bool(int(OPS_DEBUG))
 
 if OPS_DEBUG:
