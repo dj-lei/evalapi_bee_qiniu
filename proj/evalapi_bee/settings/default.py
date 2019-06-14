@@ -8,7 +8,8 @@ SECRET_KEY = 'kw18yxz*#qn8=ps**#p4gh&)bw5+rfq(ebu+))=2wmo30h&*gn'
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['.gongpingjia.com', '.alicontainer.com', 'evalapi_bee']
+# ALLOWED_HOSTS = ['.gongpingjia.com', '.alicontainer.com', 'evalapi_bee']
+ALLOWED_HOSTS = ['*']
 
 CORS_ORIGIN_ALLOW_ALL = True
 CORS_ALLOW_CREDENTIALS = True
@@ -179,34 +180,65 @@ LOGGING = {
     }
 }
 
+# DATABASES = {
+#     "default": {
+#         "ENGINE": "django.db.backends.mysql",
+#         "NAME": "pingjia",
+#         "USER": "pingjia",
+#         "PASSWORD": "De32wsxC",
+#         "HOST": "100.114.30.239",
+#         "PORT": "18056",
+#         "STORAGE_ENGINE": "INNODB",
+#         "OPTIONS": {
+#             'init_command': "SET sql_mode='STRICT_TRANS_TABLES'",
+#         },
+#     },
+#     'kong': {
+#         "ENGINE": "django.db.backends.postgresql_psycopg2",
+#         "NAME": "kong",
+#         "USER": "gpj_dbuser",
+#         "PASSWORD": "pg_GPJ_~!",
+#         "HOST": "10.24.197.91",
+#         "PORT": "5432"
+#     }
+# }
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.mysql",
         "NAME": "pingjia",
         "USER": "pingjia",
         "PASSWORD": "De32wsxC",
-        "HOST": "100.114.30.239",
-        "PORT": "18056",
-        "STORAGE_ENGINE": "INNODB",
-        "OPTIONS": {
-            'init_command': "SET sql_mode='STRICT_TRANS_TABLES'",
-        },
-    },
-    'kong': {
-        "ENGINE": "django.db.backends.postgresql_psycopg2",
-        "NAME": "kong",
-        "USER": "gpj_dbuser",
-        "PASSWORD": "pg_GPJ_~!",
-        "HOST": "10.24.197.91",
-        "PORT": "5432"
+        "HOST": "192.168.2.114",
+        "PORT": "3306"
     }
 }
+
+# CACHES = {
+#     'default': {
+#         'BACKEND': 'django.core.cache.backends.memcached.MemcachedCache',
+#         # multiple memcached server
+#         'LOCATION': '93d98b389c094fd7.m.cnbjalinu16pub001.ocs.aliyuncs.com:11211',
+#         'TIMEOUT': 61200,  # 07-24 17 hours
+#         'BINARY': True,
+#         'KEY_PREFIX': 'EVALAPI.1'
+#     },
+#     'file_cache': {
+#         'BACKEND': 'django.core.cache.backends.filebased.FileBasedCache',
+#         'LOCATION': '/tmp/wwwcache',  # Set file cache directory
+#         'TIMEOUT': 61200,  # 07-24 17 hours
+#         'KEY_PREFIX': 'EVALAPI.1',
+#         'OPTIONS': {
+#             'MAX_ENTRIES': 100000,
+#             'CULL_FREQUENCY': 3,
+#         }
+#     },
+# }
 
 CACHES = {
     'default': {
         'BACKEND': 'django.core.cache.backends.memcached.MemcachedCache',
         # multiple memcached server
-        'LOCATION': '93d98b389c094fd7.m.cnbjalinu16pub001.ocs.aliyuncs.com:11211',
+        'LOCATION': '127.0.0.1:11211',
         'TIMEOUT': 61200,  # 07-24 17 hours
         'BINARY': True,
         'KEY_PREFIX': 'EVALAPI.1'
