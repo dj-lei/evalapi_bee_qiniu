@@ -4,9 +4,6 @@ services:
     image: "evalapi_bee:latest"
     ports:
       - "80:80"
-    hostname: evalapi_bee
-    networks:
-      - kong-net
     deploy:
       mode: replicated
       replicas: 1
@@ -22,5 +19,3 @@ services:
         delay: 1s
       placement:
         constraints: [node.role == manager]
-networks:
-  kong-net:
