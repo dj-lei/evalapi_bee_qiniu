@@ -238,7 +238,7 @@ CACHES = {
     'default': {
         'BACKEND': 'django.core.cache.backends.memcached.MemcachedCache',
         # multiple memcached server
-        'LOCATION': '127.0.0.1:11211',
+        'LOCATION': '192.168.1.187:11211',
         'TIMEOUT': 61200,  # 07-24 17 hours
         'BINARY': True,
         'KEY_PREFIX': 'EVALAPI.1'
